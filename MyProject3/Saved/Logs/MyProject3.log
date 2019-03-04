@@ -448,3 +448,137 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.03.04-05.05.21:835][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
 [2019.03.04-05.05.21:835][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
 [2019.03.04-05.05.22:533][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.04-05.05.22:984][  0]LogDerivedDataCache: Loaded boot cache 0.45s 71MB C:/Users/Gretchen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.04-05.05.22:984][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gretchen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.04-05.05.22:984][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/humanstuffFinal/MyProject3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.04-05.05.22:984][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.04-05.05.22:984][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/humanstuffFinal/MyProject3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.04-05.05.22:984][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.04-05.05.23:000][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.04-05.05.23:000][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.04-05.05.23:000][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.04-05.05.23:014][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gretchen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.04-05.05.23:014][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.04-05.05.23:014][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.04-05.05.23:037][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.04-05.05.23:048][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.04-05.05.23:055][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.04-05.05.23:256][  0]LogAssetRegistry: FAssetRegistry took 0.0355 seconds to start up
+[2019.03.04-05.05.23:670][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.04-05.05.24:014][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.04-05.05.24:040][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.04-05.05.24:040][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.04-05.05.24:041][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.04-05.05.24:041][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.04-05.05.24:088][  0]LogNetVersion: MyProject3 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2916331349)
+[2019.03.04-05.05.25:054][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.085388 seconds
+[2019.03.04-05.05.25:060][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.04-05.05.25:060][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.03.04-05.05.25:060][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.04-05.05.27:315][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.04-05.05.27:335][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.04-05.05.28:386][  0]SourceControl: Source control is disabled
+[2019.03.04-05.05.28:386][  0]SourceControl: Source control is disabled
+[2019.03.04-05.05.28:400][  0]SourceControl: Source control is disabled
+[2019.03.04-05.05.28:406][  0]SourceControl: Source control is disabled
+[2019.03.04-05.05.28:767][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.04-05.05.29:047][  0]LogOcInput: OculusInput pre-init called
+[2019.03.04-05.05.29:264][  0]LogEngine: Initializing Engine...
+[2019.03.04-05.05.29:267][  0]LogHMD: Oculus plugin initialized. Version: 4.21.2-4753647+++UE4+Release-4.21, OVRPlugin: 1.28.0
+[2019.03.04-05.05.29:271][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2019.03.04-05.05.29:271][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.04-05.05.29:271][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.04-05.05.29:271][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.04-05.05.29:528][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.04-05.05.29:586][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.04-05.05.29:610][  0]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.04-05.05.29:689][  0]LogInit: FAudioDevice initialized.
+[2019.03.04-05.05.29:689][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.04-05.05.29:856][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/Gretchen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.04-05.05.29:866][  0]LogInit: Texture streaming: Enabled
+[2019.03.04-05.05.29:901][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.04-05.05.29:902][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={64615BD1-4FFE-778A-22B1-FBA9A9501EA7}
+[2019.03.04-05.05.29:929][  0]LogInit: Transaction tracking system initialized
+[2019.03.04-05.05.30:012][  0]BlueprintLog: New page: Editor Load
+[2019.03.04-05.05.30:273][  0]LocalizationService: Localization service is disabled
+[2019.03.04-05.05.30:911][  0]LogFileCache: Scanning file cache for directory 'D:/humanstuffFinal/MyProject3/Content/' took 0.02s
+[2019.03.04-05.05.30:911][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.04-05.05.30:911][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.04-05.05.30:911][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.04-05.05.30:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.04-05.05.30:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.04-05.05.30:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.04-05.05.30:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.04-05.05.31:261][  0]SourceControl: Source control is disabled
+[2019.03.04-05.05.31:263][  0]Cmd: MAP LOAD FILE="D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.04-05.05.31:281][  0]LightingResults: New page: Lighting Build
+[2019.03.04-05.05.31:297][  0]MapCheck: New page: Map Check
+[2019.03.04-05.05.31:297][  0]LightingResults: New page: Lighting Build
+[2019.03.04-05.05.37:091][  0]LoadErrors: Warning: hs_vase Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.03.04-05.05.37:141][  0]LoadErrors: Warning: hs_diamond Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.03.04-05.05.37:146][  0]LoadErrors: Warning: hs_cake Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.03.04-05.05.37:439][  0]LoadErrors: Warning: skybox2 Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.03.04-05.05.37:450][  0]LoadErrors: Warning: shelves Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.03.04-05.05.37:502][  0]LoadErrors: Warning: hs_parkingMedian Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.03.04-05.05.37:525][  0]LoadErrors: Warning: hs_lampTree Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.03.04-05.05.37:546][  0]LoadErrors: Warning: hs_groundPlane Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.03.04-05.05.37:582][  0]LoadErrors: Warning: hs_concreteBumper Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.03.04-05.05.37:765][  0]LogAIModule: Creating AISystem for world Level1
+[2019.03.04-05.05.37:802][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.03.04-05.05.37:802][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.03.04-05.05.37:835][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.04-05.05.37:972][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.04-05.05.37:973][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2019.03.04-05.05.37:973][  0]LogFileHelpers: Loading map 'Level1' took 6.712
+[2019.03.04-05.05.38:154][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-05.05.38:162][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-05.05.38:168][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-05.05.38:176][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-05.05.38:197][  0]LogCollectionManager: Loaded 0 collections in 0.001698 seconds
+[2019.03.04-05.05.38:246][  0]LogFileCache: Scanning file cache for directory 'D:/humanstuffFinal/MyProject3/Saved/Collections/' took 0.01s
+[2019.03.04-05.05.38:246][  0]LogFileCache: Scanning file cache for directory 'D:/humanstuffFinal/MyProject3/Content/Developers/Gretchen/Collections/' took 0.01s
+[2019.03.04-05.05.38:246][  0]LogFileCache: Scanning file cache for directory 'D:/humanstuffFinal/MyProject3/Content/Collections/' took 0.00s
+[2019.03.04-05.05.38:246][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.04-05.05.38:260][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2651 classes and 620 folders.
+[2019.03.04-05.05.38:278][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.04-05.05.38:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:290][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:292][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:295][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:297][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:299][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:301][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:312][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:316][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:318][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:320][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:323][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:326][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:327][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:329][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:333][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:338][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-05.05.38:491][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.04-05.05.38:507][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.03.04-05.05.38:732][  0]LogSlate: Took 0.001870 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.04-05.05.38:736][  0]LogSlate: Took 0.002108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.04-05.05.38:750][  0]LogSlate: Took 0.006707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.04-05.05.38:847][  0]LogRenderer: Reallocating scene render targets to support 916x436 Format 26 NumSamples 1 (Frame:1).
+[2019.03.04-05.05.39:048][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.04-05.05.39:048][  0]LogLoad: (Engine Initialization) Total time: 25.61 seconds
+[2019.03.04-05.05.39:048][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.04-05.05.39:067][  0]LogOcInput: OculusInput is initialized
+[2019.03.04-05.05.39:126][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.04-05.05.39:133][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.04-05.05.39:579][  5]LogAssetRegistry: Asset discovery search completed in 16.3451 seconds
+[2019.03.04-05.05.39:580][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.04-05.05.39:580][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
