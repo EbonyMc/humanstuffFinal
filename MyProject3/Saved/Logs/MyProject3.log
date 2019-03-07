@@ -1048,3 +1048,975 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.03.07-14.24.06:183][681]BlueprintLog: New page: Compile ShoppingCarts
 [2019.03.07-14.24.07:058][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
 [2019.03.07-14.24.07:832][721]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/ShoppingCartsFA70AD9C4D42F80E16E9A58221A6556F.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.03.07-14.24.57:807][651]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BabyCarts.BabyCarts
+[2019.03.07-14.26.03:988][961]BlueprintLog: New page: Compile BabyCarts
+[2019.03.07-14.26.04:880][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.03.07-14.26.05:459][989]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/BabyCarts7D4249314BF9BC243736FE8C794072B7.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.03.07-14.26.29:707][638]BlueprintLog: New page: Compile BabyCarts
+[2019.03.07-14.26.30:632][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.03.07-14.26.31:194][666]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/BabyCartsF56901E54243DEB96F03218B39C0E063.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.03.07-14.26.32:184][724]LogSlate: Window 'BabyCarts' being destroyed
+[2019.03.07-14.26.32:188][724]LogSlate: Window 'BabyCarts' being destroyed
+[2019.03.07-14.26.49:404][333]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animation/slugHead_walk_Anim.slugHead_walk_Anim
+[2019.03.07-14.26.49:413][333]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.07-14.26.49:479][333]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.07-14.26.50:065][333]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.03.07-14.26.53:526][559]LogSlate: Window 'slugHead_walk_Anim' being destroyed
+[2019.03.07-14.26.53:530][559]LogSlate: Window 'slugHead_walk_Anim' being destroyed
+[2019.03.07-14.27.11:455][303]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.03.07-14.27.22:488][303]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2019.03.07-14.27.31:568][153]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animation/AlienAI.AlienAI
+[2019.03.07-14.27.31:623][153]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.03.07-14.27.31:982][153]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.03.07-14.27.33:913][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AlienAI" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset" SILENT=true
+[2019.03.07-14.27.34:005][261]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/AlienAI5EB5D4614DFD7350415CAEBD3CABAF71.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset'
+[2019.03.07-14.28.04:694][712]LogSlate: Window 'AlienAI' being destroyed
+[2019.03.07-14.28.34:144][351]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\emccla22\Downloads\slugHead_idle01.fbx)
+[2019.03.07-14.28.34:188][351]LogFbx: Loading FBX Scene from C:\Users\emccla22\Downloads\slugHead_idle01.fbx
+[2019.03.07-14.28.34:294][351]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.07-14.28.43:205][351]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.07-14.28.43:281][351]LogFbx: =================================================
+[2019.03.07-14.28.43:281][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:eyes] 
+[2019.03.07-14.28.43:281][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:281][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:281][351]LogFbx: =================================================
+[2019.03.07-14.28.43:281][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:281][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:eyes (Type Mesh).
+[2019.03.07-14.28.43:281][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:eyes]
+[2019.03.07-14.28.43:281][351]LogFbx: =================================================
+[2019.03.07-14.28.43:281][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:pants] 
+[2019.03.07-14.28.43:281][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:281][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:281][351]LogFbx: =================================================
+[2019.03.07-14.28.43:281][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:281][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:pants (Type Mesh).
+[2019.03.07-14.28.43:281][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:pants]
+[2019.03.07-14.28.43:281][351]LogFbx: =================================================
+[2019.03.07-14.28.43:281][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.43:281][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:281][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:281][351]LogFbx: =================================================
+[2019.03.07-14.28.43:281][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:281][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.43:281][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.43:281][351]LogFbx: =================================================
+[2019.03.07-14.28.43:282][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:vest] 
+[2019.03.07-14.28.43:282][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:282][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:282][351]LogFbx: =================================================
+[2019.03.07-14.28.43:282][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:282][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:vest (Type Mesh).
+[2019.03.07-14.28.43:282][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:vest]
+[2019.03.07-14.28.43:282][351]LogFbx: =================================================
+[2019.03.07-14.28.43:282][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.43:282][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:282][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:282][351]LogFbx: =================================================
+[2019.03.07-14.28.43:282][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:282][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.43:282][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.43:282][351]LogFbx: =================================================
+[2019.03.07-14.28.43:282][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.43:282][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:282][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:282][351]LogFbx: =================================================
+[2019.03.07-14.28.43:282][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:282][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.43:282][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.43:282][351]LogFbx: =================================================
+[2019.03.07-14.28.43:282][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:head] 
+[2019.03.07-14.28.43:282][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:282][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:282][351]LogFbx: =================================================
+[2019.03.07-14.28.43:282][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:282][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:head (Type Mesh).
+[2019.03.07-14.28.43:282][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:head]
+[2019.03.07-14.28.43:283][351]LogFbx: =================================================
+[2019.03.07-14.28.43:283][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:eyes] 
+[2019.03.07-14.28.43:283][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:283][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:283][351]LogFbx: =================================================
+[2019.03.07-14.28.43:283][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:283][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:eyes (Type Mesh).
+[2019.03.07-14.28.43:283][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:eyes]
+[2019.03.07-14.28.43:283][351]LogFbx: =================================================
+[2019.03.07-14.28.43:283][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:pants] 
+[2019.03.07-14.28.43:283][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:283][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:283][351]LogFbx: =================================================
+[2019.03.07-14.28.43:283][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:283][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:pants (Type Mesh).
+[2019.03.07-14.28.43:283][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:pants]
+[2019.03.07-14.28.43:283][351]LogFbx: =================================================
+[2019.03.07-14.28.43:283][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.43:283][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:283][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:283][351]LogFbx: =================================================
+[2019.03.07-14.28.43:283][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:283][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.43:283][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.43:283][351]LogFbx: =================================================
+[2019.03.07-14.28.43:283][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:vest] 
+[2019.03.07-14.28.43:284][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:284][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:284][351]LogFbx: =================================================
+[2019.03.07-14.28.43:284][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:284][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:vest (Type Mesh).
+[2019.03.07-14.28.43:284][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:vest]
+[2019.03.07-14.28.43:284][351]LogFbx: =================================================
+[2019.03.07-14.28.43:284][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.43:284][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:284][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:284][351]LogFbx: =================================================
+[2019.03.07-14.28.43:284][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:284][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.43:284][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.43:284][351]LogFbx: =================================================
+[2019.03.07-14.28.43:284][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.43:284][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:284][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:284][351]LogFbx: =================================================
+[2019.03.07-14.28.43:284][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:284][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.43:284][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.43:284][351]LogFbx: =================================================
+[2019.03.07-14.28.43:284][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:head] 
+[2019.03.07-14.28.43:284][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:284][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:284][351]LogFbx: =================================================
+[2019.03.07-14.28.43:284][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:284][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:head (Type Mesh).
+[2019.03.07-14.28.43:284][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:head]
+[2019.03.07-14.28.43:285][351]LogFbx: =================================================
+[2019.03.07-14.28.43:285][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:eyes] 
+[2019.03.07-14.28.43:285][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:285][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:285][351]LogFbx: =================================================
+[2019.03.07-14.28.43:285][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:285][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:eyes (Type Mesh).
+[2019.03.07-14.28.43:285][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:eyes]
+[2019.03.07-14.28.43:285][351]LogFbx: =================================================
+[2019.03.07-14.28.43:285][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:pants] 
+[2019.03.07-14.28.43:285][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:285][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:285][351]LogFbx: =================================================
+[2019.03.07-14.28.43:285][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:285][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:pants (Type Mesh).
+[2019.03.07-14.28.43:285][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:pants]
+[2019.03.07-14.28.43:285][351]LogFbx: =================================================
+[2019.03.07-14.28.43:285][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.43:285][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:285][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:285][351]LogFbx: =================================================
+[2019.03.07-14.28.43:285][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:285][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.43:285][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.43:285][351]LogFbx: =================================================
+[2019.03.07-14.28.43:285][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:vest] 
+[2019.03.07-14.28.43:285][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:285][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:285][351]LogFbx: =================================================
+[2019.03.07-14.28.43:285][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:285][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:vest (Type Mesh).
+[2019.03.07-14.28.43:286][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:vest]
+[2019.03.07-14.28.43:286][351]LogFbx: =================================================
+[2019.03.07-14.28.43:286][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.43:286][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:286][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:286][351]LogFbx: =================================================
+[2019.03.07-14.28.43:286][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:286][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.43:286][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.43:286][351]LogFbx: =================================================
+[2019.03.07-14.28.43:286][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.43:286][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:286][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:286][351]LogFbx: =================================================
+[2019.03.07-14.28.43:286][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:286][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.43:286][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.43:286][351]LogFbx: =================================================
+[2019.03.07-14.28.43:286][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:head] 
+[2019.03.07-14.28.43:286][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:286][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:286][351]LogFbx: =================================================
+[2019.03.07-14.28.43:286][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:286][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:head (Type Mesh).
+[2019.03.07-14.28.43:286][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:head]
+[2019.03.07-14.28.43:286][351]LogFbx: =================================================
+[2019.03.07-14.28.43:286][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:eyes] 
+[2019.03.07-14.28.43:286][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:286][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:286][351]LogFbx: =================================================
+[2019.03.07-14.28.43:286][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:286][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:eyes (Type Mesh).
+[2019.03.07-14.28.43:286][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:eyes]
+[2019.03.07-14.28.43:287][351]LogFbx: =================================================
+[2019.03.07-14.28.43:287][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:eyes] 
+[2019.03.07-14.28.43:287][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:287][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:287][351]LogFbx: =================================================
+[2019.03.07-14.28.43:287][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:287][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:eyes (Type Mesh).
+[2019.03.07-14.28.43:287][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:eyes]
+[2019.03.07-14.28.43:287][351]LogFbx: =================================================
+[2019.03.07-14.28.43:287][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:pants] 
+[2019.03.07-14.28.43:287][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:287][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:287][351]LogFbx: =================================================
+[2019.03.07-14.28.43:287][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:287][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:pants (Type Mesh).
+[2019.03.07-14.28.43:287][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:pants]
+[2019.03.07-14.28.43:287][351]LogFbx: =================================================
+[2019.03.07-14.28.43:287][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.43:287][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:287][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:287][351]LogFbx: =================================================
+[2019.03.07-14.28.43:287][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:287][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.43:287][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.43:287][351]LogFbx: =================================================
+[2019.03.07-14.28.43:287][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:vest] 
+[2019.03.07-14.28.43:287][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:287][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:287][351]LogFbx: =================================================
+[2019.03.07-14.28.43:287][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:287][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:vest (Type Mesh).
+[2019.03.07-14.28.43:287][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:vest]
+[2019.03.07-14.28.43:287][351]LogFbx: =================================================
+[2019.03.07-14.28.43:287][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.43:287][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:287][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:288][351]LogFbx: =================================================
+[2019.03.07-14.28.43:288][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:288][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.43:288][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.43:288][351]LogFbx: =================================================
+[2019.03.07-14.28.43:288][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.43:288][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:288][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:288][351]LogFbx: =================================================
+[2019.03.07-14.28.43:288][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:288][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.43:288][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.43:288][351]LogFbx: =================================================
+[2019.03.07-14.28.43:288][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:head] 
+[2019.03.07-14.28.43:288][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:288][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:288][351]LogFbx: =================================================
+[2019.03.07-14.28.43:288][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:288][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:head (Type Mesh).
+[2019.03.07-14.28.43:288][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:head]
+[2019.03.07-14.28.43:288][351]LogFbx: =================================================
+[2019.03.07-14.28.43:288][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:pants] 
+[2019.03.07-14.28.43:288][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:288][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:288][351]LogFbx: =================================================
+[2019.03.07-14.28.43:288][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:288][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:pants (Type Mesh).
+[2019.03.07-14.28.43:288][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:pants]
+[2019.03.07-14.28.43:288][351]LogFbx: =================================================
+[2019.03.07-14.28.43:288][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.43:288][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:288][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:288][351]LogFbx: =================================================
+[2019.03.07-14.28.43:289][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:289][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.43:289][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.43:289][351]LogFbx: =================================================
+[2019.03.07-14.28.43:289][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:pants] 
+[2019.03.07-14.28.43:289][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:289][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:289][351]LogFbx: =================================================
+[2019.03.07-14.28.43:289][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:289][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:pants (Type Mesh).
+[2019.03.07-14.28.43:289][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:pants]
+[2019.03.07-14.28.43:289][351]LogFbx: =================================================
+[2019.03.07-14.28.43:289][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.43:289][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:289][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:289][351]LogFbx: =================================================
+[2019.03.07-14.28.43:289][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:289][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.43:289][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.43:289][351]LogFbx: =================================================
+[2019.03.07-14.28.43:289][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.43:289][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:289][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:289][351]LogFbx: =================================================
+[2019.03.07-14.28.43:289][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:289][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.43:289][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.43:289][351]LogFbx: =================================================
+[2019.03.07-14.28.43:289][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:vest] 
+[2019.03.07-14.28.43:289][351]LogFbx: 	Total Deformer Count -1713327952.
+[2019.03.07-14.28.43:289][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:289][351]LogFbx: =================================================
+[2019.03.07-14.28.43:289][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:289][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:vest (Type Mesh).
+[2019.03.07-14.28.43:290][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:vest]
+[2019.03.07-14.28.43:290][351]LogFbx: =================================================
+[2019.03.07-14.28.43:290][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.43:290][351]LogFbx: 	Total Deformer Count -1883980784.
+[2019.03.07-14.28.43:290][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:290][351]LogFbx: =================================================
+[2019.03.07-14.28.43:290][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:290][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.43:290][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.43:290][351]LogFbx: =================================================
+[2019.03.07-14.28.43:290][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.43:290][351]LogFbx: 	Total Deformer Count -1883980784.
+[2019.03.07-14.28.43:290][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:290][351]LogFbx: =================================================
+[2019.03.07-14.28.43:290][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:290][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.43:290][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.43:290][351]LogFbx: =================================================
+[2019.03.07-14.28.43:290][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:vest] 
+[2019.03.07-14.28.43:290][351]LogFbx: 	Total Deformer Count -1883980784.
+[2019.03.07-14.28.43:290][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:290][351]LogFbx: =================================================
+[2019.03.07-14.28.43:290][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:290][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:vest (Type Mesh).
+[2019.03.07-14.28.43:290][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:vest]
+[2019.03.07-14.28.43:290][351]LogFbx: =================================================
+[2019.03.07-14.28.43:290][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.43:290][351]LogFbx: 	Total Deformer Count -1883980784.
+[2019.03.07-14.28.43:290][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:290][351]LogFbx: =================================================
+[2019.03.07-14.28.43:290][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:290][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.43:291][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.43:291][351]LogFbx: =================================================
+[2019.03.07-14.28.43:291][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.43:291][351]LogFbx: 	Total Deformer Count -1883980784.
+[2019.03.07-14.28.43:291][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:291][351]LogFbx: =================================================
+[2019.03.07-14.28.43:291][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:291][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.43:291][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.43:291][351]LogFbx: =================================================
+[2019.03.07-14.28.43:291][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.43:291][351]LogFbx: 	Total Deformer Count -1883980784.
+[2019.03.07-14.28.43:291][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:291][351]LogFbx: =================================================
+[2019.03.07-14.28.43:291][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:291][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.43:291][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.43:291][351]LogFbx: =================================================
+[2019.03.07-14.28.43:291][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.43:291][351]LogFbx: 	Total Deformer Count -1883980784.
+[2019.03.07-14.28.43:291][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:291][351]LogFbx: =================================================
+[2019.03.07-14.28.43:291][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:291][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.43:291][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.43:291][351]LogFbx: =================================================
+[2019.03.07-14.28.43:291][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.43:291][351]LogFbx: 	Total Deformer Count -1883980784.
+[2019.03.07-14.28.43:291][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:291][351]LogFbx: =================================================
+[2019.03.07-14.28.43:291][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:292][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.43:292][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.43:292][351]LogFbx: =================================================
+[2019.03.07-14.28.43:292][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:head] 
+[2019.03.07-14.28.43:292][351]LogFbx: 	Total Deformer Count -1883980784.
+[2019.03.07-14.28.43:292][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:292][351]LogFbx: =================================================
+[2019.03.07-14.28.43:292][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:292][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:head (Type Mesh).
+[2019.03.07-14.28.43:292][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:head]
+[2019.03.07-14.28.43:292][351]LogFbx: =================================================
+[2019.03.07-14.28.43:292][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:head] 
+[2019.03.07-14.28.43:292][351]LogFbx: 	Total Deformer Count -1883980784.
+[2019.03.07-14.28.43:292][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.43:292][351]LogFbx: =================================================
+[2019.03.07-14.28.43:292][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.43:292][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:head (Type Mesh).
+[2019.03.07-14.28.43:292][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:head]
+[2019.03.07-14.28.43:296][351]LogFbx: Valid bind pose for Pose (Alien_RIG_MASTER_V2:skinCluster1) - Alien_RIG_MASTER_V2:eyes
+[2019.03.07-14.28.43:296][351]LogFbx: Valid bind pose for Pose (Alien_RIG_MASTER_V2:skinCluster2) - Alien_RIG_MASTER_V2:eyes
+[2019.03.07-14.28.43:297][351]LogFbx: Valid bind pose for Pose (Alien_RIG_MASTER_V2:skinCluster3) - Alien_RIG_MASTER_V2:eyes
+[2019.03.07-14.28.43:297][351]LogFbx: Valid bind pose for Pose (Alien_RIG_MASTER_V2:skinCluster4) - Alien_RIG_MASTER_V2:eyes
+[2019.03.07-14.28.43:297][351]LogFbx: Valid bind pose for Pose (Alien_RIG_MASTER_V2:skinCluster5) - Alien_RIG_MASTER_V2:eyes
+[2019.03.07-14.28.43:298][351]LogFbx: Valid bind pose for Pose (Alien_RIG_MASTER_V2:skinCluster6) - Alien_RIG_MASTER_V2:eyes
+[2019.03.07-14.28.43:299][351]LogFbx: Valid bind pose for Pose (Alien_RIG_MASTER_V2:skinCluster7) - Alien_RIG_MASTER_V2:eyes
+[2019.03.07-14.28.48:992][351]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.03.07-14.28.49:069][351]LogFbx: Triangulating skeletal mesh Alien_RIG_MASTER_V2:eyes
+[2019.03.07-14.28.49:189][351]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.07-14.28.49:189][351]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.07-14.28.49:189][351]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.07-14.28.49:189][351]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.07-14.28.49:189][351]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.07-14.28.49:189][351]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.07-14.28.49:189][351]LogFbx: Triangulating skeletal mesh Alien_RIG_MASTER_V2:pants
+[2019.03.07-14.28.49:489][351]LogFbx: Triangulating skeletal mesh Alien_RIG_MASTER_V2:shoes
+[2019.03.07-14.28.49:735][351]LogFbx: Triangulating skeletal mesh Alien_RIG_MASTER_V2:vest
+[2019.03.07-14.28.49:942][351]LogFbx: Triangulating skeletal mesh Alien_RIG_MASTER_V2:arm_L
+[2019.03.07-14.28.50:382][351]LogFbx: Triangulating skeletal mesh Alien_RIG_MASTER_V2:hand_L
+[2019.03.07-14.28.50:986][351]LogFbx: Triangulating skeletal mesh Alien_RIG_MASTER_V2:head
+[2019.03.07-14.28.53:011][351]LogFbx: Warning: Bones digested - 92  Depth of hierarchy - 15
+[2019.03.07-14.28.54:445][351]LogSkeletalMesh: Section 0: 13592 vertices, 75 active bones
+[2019.03.07-14.28.54:452][351]LogSkeletalMesh: Section 0: Material=0, 22340 triangles
+[2019.03.07-14.28.54:454][351]LogSkeletalMesh: Building Skeletal Mesh slugHead_idle01...
+[2019.03.07-14.28.54:555][351]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Animation/slugHead_idle01.slugHead_idle01
+[2019.03.07-14.28.54:672][351]LogLinker: Can't find file '/Game/Animation/slugHead_idle01_PhysicsAsset'
+[2019.03.07-14.28.54:673][351]LogLinker: Can't find file '/Game/Animation/slugHead_idle01_PhysicsAsset'
+[2019.03.07-14.28.54:774][351]LogFbx: =================================================
+[2019.03.07-14.28.54:774][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:eyes] 
+[2019.03.07-14.28.54:774][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:774][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:774][351]LogFbx: =================================================
+[2019.03.07-14.28.54:774][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:774][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:eyes (Type Mesh).
+[2019.03.07-14.28.54:774][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:eyes]
+[2019.03.07-14.28.54:774][351]LogFbx: =================================================
+[2019.03.07-14.28.54:774][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:pants] 
+[2019.03.07-14.28.54:774][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:774][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:774][351]LogFbx: =================================================
+[2019.03.07-14.28.54:774][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:775][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:pants (Type Mesh).
+[2019.03.07-14.28.54:775][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:pants]
+[2019.03.07-14.28.54:775][351]LogFbx: =================================================
+[2019.03.07-14.28.54:775][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.54:775][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:775][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:775][351]LogFbx: =================================================
+[2019.03.07-14.28.54:775][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:775][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.54:775][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.54:775][351]LogFbx: =================================================
+[2019.03.07-14.28.54:775][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:vest] 
+[2019.03.07-14.28.54:775][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:775][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:775][351]LogFbx: =================================================
+[2019.03.07-14.28.54:775][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:775][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:vest (Type Mesh).
+[2019.03.07-14.28.54:775][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:vest]
+[2019.03.07-14.28.54:776][351]LogFbx: =================================================
+[2019.03.07-14.28.54:776][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.54:776][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:776][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:776][351]LogFbx: =================================================
+[2019.03.07-14.28.54:776][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:776][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.54:776][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.54:776][351]LogFbx: =================================================
+[2019.03.07-14.28.54:776][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.54:776][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:776][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:776][351]LogFbx: =================================================
+[2019.03.07-14.28.54:776][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:776][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.54:776][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.54:777][351]LogFbx: =================================================
+[2019.03.07-14.28.54:777][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:head] 
+[2019.03.07-14.28.54:777][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:777][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:777][351]LogFbx: =================================================
+[2019.03.07-14.28.54:777][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:777][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:head (Type Mesh).
+[2019.03.07-14.28.54:777][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:head]
+[2019.03.07-14.28.54:778][351]LogFbx: =================================================
+[2019.03.07-14.28.54:778][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:eyes] 
+[2019.03.07-14.28.54:778][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:778][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:778][351]LogFbx: =================================================
+[2019.03.07-14.28.54:778][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:778][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:eyes (Type Mesh).
+[2019.03.07-14.28.54:778][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:eyes]
+[2019.03.07-14.28.54:778][351]LogFbx: =================================================
+[2019.03.07-14.28.54:778][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:pants] 
+[2019.03.07-14.28.54:778][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:778][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:778][351]LogFbx: =================================================
+[2019.03.07-14.28.54:778][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:778][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:pants (Type Mesh).
+[2019.03.07-14.28.54:779][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:pants]
+[2019.03.07-14.28.54:779][351]LogFbx: =================================================
+[2019.03.07-14.28.54:779][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.54:779][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:779][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:779][351]LogFbx: =================================================
+[2019.03.07-14.28.54:779][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:779][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.54:779][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.54:779][351]LogFbx: =================================================
+[2019.03.07-14.28.54:779][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:vest] 
+[2019.03.07-14.28.54:779][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:779][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:779][351]LogFbx: =================================================
+[2019.03.07-14.28.54:779][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:779][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:vest (Type Mesh).
+[2019.03.07-14.28.54:779][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:vest]
+[2019.03.07-14.28.54:779][351]LogFbx: =================================================
+[2019.03.07-14.28.54:779][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.54:779][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:779][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:779][351]LogFbx: =================================================
+[2019.03.07-14.28.54:780][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:780][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.54:780][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.54:780][351]LogFbx: =================================================
+[2019.03.07-14.28.54:780][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.54:780][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:780][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:780][351]LogFbx: =================================================
+[2019.03.07-14.28.54:780][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:780][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.54:780][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.54:780][351]LogFbx: =================================================
+[2019.03.07-14.28.54:780][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:head] 
+[2019.03.07-14.28.54:780][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:780][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:780][351]LogFbx: =================================================
+[2019.03.07-14.28.54:780][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:780][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:head (Type Mesh).
+[2019.03.07-14.28.54:780][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:head]
+[2019.03.07-14.28.54:781][351]LogFbx: =================================================
+[2019.03.07-14.28.54:781][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:eyes] 
+[2019.03.07-14.28.54:781][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:781][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:781][351]LogFbx: =================================================
+[2019.03.07-14.28.54:781][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:781][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:eyes (Type Mesh).
+[2019.03.07-14.28.54:781][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:eyes]
+[2019.03.07-14.28.54:781][351]LogFbx: =================================================
+[2019.03.07-14.28.54:781][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:pants] 
+[2019.03.07-14.28.54:781][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:781][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:782][351]LogFbx: =================================================
+[2019.03.07-14.28.54:782][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:782][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:pants (Type Mesh).
+[2019.03.07-14.28.54:782][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:pants]
+[2019.03.07-14.28.54:782][351]LogFbx: =================================================
+[2019.03.07-14.28.54:782][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.54:782][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:782][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:782][351]LogFbx: =================================================
+[2019.03.07-14.28.54:782][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:782][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.54:782][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.54:782][351]LogFbx: =================================================
+[2019.03.07-14.28.54:782][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:vest] 
+[2019.03.07-14.28.54:782][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:782][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:782][351]LogFbx: =================================================
+[2019.03.07-14.28.54:782][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:782][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:vest (Type Mesh).
+[2019.03.07-14.28.54:782][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:vest]
+[2019.03.07-14.28.54:782][351]LogFbx: =================================================
+[2019.03.07-14.28.54:782][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.54:783][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:783][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:783][351]LogFbx: =================================================
+[2019.03.07-14.28.54:783][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:783][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.54:783][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.54:783][351]LogFbx: =================================================
+[2019.03.07-14.28.54:783][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.54:783][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:783][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:783][351]LogFbx: =================================================
+[2019.03.07-14.28.54:783][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:783][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.54:783][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.54:783][351]LogFbx: =================================================
+[2019.03.07-14.28.54:783][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:head] 
+[2019.03.07-14.28.54:783][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:783][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:783][351]LogFbx: =================================================
+[2019.03.07-14.28.54:783][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:783][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:head (Type Mesh).
+[2019.03.07-14.28.54:783][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:head]
+[2019.03.07-14.28.54:784][351]LogFbx: =================================================
+[2019.03.07-14.28.54:784][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:eyes] 
+[2019.03.07-14.28.54:784][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:784][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:784][351]LogFbx: =================================================
+[2019.03.07-14.28.54:784][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:784][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:eyes (Type Mesh).
+[2019.03.07-14.28.54:784][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:eyes]
+[2019.03.07-14.28.54:784][351]LogFbx: =================================================
+[2019.03.07-14.28.54:784][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:eyes] 
+[2019.03.07-14.28.54:784][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:784][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:784][351]LogFbx: =================================================
+[2019.03.07-14.28.54:784][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:784][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:eyes (Type Mesh).
+[2019.03.07-14.28.54:784][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:eyes]
+[2019.03.07-14.28.54:784][351]LogFbx: =================================================
+[2019.03.07-14.28.54:784][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:pants] 
+[2019.03.07-14.28.54:785][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:785][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:785][351]LogFbx: =================================================
+[2019.03.07-14.28.54:785][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:785][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:pants (Type Mesh).
+[2019.03.07-14.28.54:785][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:pants]
+[2019.03.07-14.28.54:785][351]LogFbx: =================================================
+[2019.03.07-14.28.54:785][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.54:785][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:785][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:785][351]LogFbx: =================================================
+[2019.03.07-14.28.54:785][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:785][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.54:785][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.54:785][351]LogFbx: =================================================
+[2019.03.07-14.28.54:785][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:vest] 
+[2019.03.07-14.28.54:785][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:785][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:785][351]LogFbx: =================================================
+[2019.03.07-14.28.54:785][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:786][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:vest (Type Mesh).
+[2019.03.07-14.28.54:786][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:vest]
+[2019.03.07-14.28.54:786][351]LogFbx: =================================================
+[2019.03.07-14.28.54:786][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.54:786][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:786][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:786][351]LogFbx: =================================================
+[2019.03.07-14.28.54:786][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:786][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.54:786][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.54:786][351]LogFbx: =================================================
+[2019.03.07-14.28.54:786][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.54:786][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:786][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:786][351]LogFbx: =================================================
+[2019.03.07-14.28.54:786][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:786][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.54:787][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.54:787][351]LogFbx: =================================================
+[2019.03.07-14.28.54:787][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:head] 
+[2019.03.07-14.28.54:787][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:787][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:787][351]LogFbx: =================================================
+[2019.03.07-14.28.54:787][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:787][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:head (Type Mesh).
+[2019.03.07-14.28.54:787][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:head]
+[2019.03.07-14.28.54:787][351]LogFbx: =================================================
+[2019.03.07-14.28.54:787][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:pants] 
+[2019.03.07-14.28.54:787][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:787][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:787][351]LogFbx: =================================================
+[2019.03.07-14.28.54:787][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:787][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:pants (Type Mesh).
+[2019.03.07-14.28.54:787][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:pants]
+[2019.03.07-14.28.54:787][351]LogFbx: =================================================
+[2019.03.07-14.28.54:787][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.54:787][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:787][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:788][351]LogFbx: =================================================
+[2019.03.07-14.28.54:788][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:788][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.54:788][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.54:788][351]LogFbx: =================================================
+[2019.03.07-14.28.54:788][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:pants] 
+[2019.03.07-14.28.54:788][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:788][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:788][351]LogFbx: =================================================
+[2019.03.07-14.28.54:788][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:788][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:pants (Type Mesh).
+[2019.03.07-14.28.54:788][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:pants]
+[2019.03.07-14.28.54:788][351]LogFbx: =================================================
+[2019.03.07-14.28.54:788][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.54:788][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:789][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:789][351]LogFbx: =================================================
+[2019.03.07-14.28.54:789][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:789][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.54:789][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.54:789][351]LogFbx: =================================================
+[2019.03.07-14.28.54:789][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:shoes] 
+[2019.03.07-14.28.54:789][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:789][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:789][351]LogFbx: =================================================
+[2019.03.07-14.28.54:789][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:789][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:shoes (Type Mesh).
+[2019.03.07-14.28.54:789][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:shoes]
+[2019.03.07-14.28.54:789][351]LogFbx: =================================================
+[2019.03.07-14.28.54:789][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:vest] 
+[2019.03.07-14.28.54:789][351]LogFbx: 	Total Deformer Count -1716888320.
+[2019.03.07-14.28.54:790][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:790][351]LogFbx: =================================================
+[2019.03.07-14.28.54:790][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:790][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:vest (Type Mesh).
+[2019.03.07-14.28.54:790][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:vest]
+[2019.03.07-14.28.54:790][351]LogFbx: =================================================
+[2019.03.07-14.28.54:790][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.54:790][351]LogFbx: 	Total Deformer Count -1712652736.
+[2019.03.07-14.28.54:790][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:790][351]LogFbx: =================================================
+[2019.03.07-14.28.54:790][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:790][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.54:790][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.54:790][351]LogFbx: =================================================
+[2019.03.07-14.28.54:790][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.54:790][351]LogFbx: 	Total Deformer Count -1712652736.
+[2019.03.07-14.28.54:790][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:790][351]LogFbx: =================================================
+[2019.03.07-14.28.54:790][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:790][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.54:791][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.54:791][351]LogFbx: =================================================
+[2019.03.07-14.28.54:791][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:vest] 
+[2019.03.07-14.28.54:791][351]LogFbx: 	Total Deformer Count -1712652736.
+[2019.03.07-14.28.54:791][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:791][351]LogFbx: =================================================
+[2019.03.07-14.28.54:791][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:791][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:vest (Type Mesh).
+[2019.03.07-14.28.54:791][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:vest]
+[2019.03.07-14.28.54:791][351]LogFbx: =================================================
+[2019.03.07-14.28.54:791][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.54:791][351]LogFbx: 	Total Deformer Count -1712652736.
+[2019.03.07-14.28.54:791][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:792][351]LogFbx: =================================================
+[2019.03.07-14.28.54:792][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:792][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.54:792][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.54:792][351]LogFbx: =================================================
+[2019.03.07-14.28.54:792][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.54:792][351]LogFbx: 	Total Deformer Count -1712652736.
+[2019.03.07-14.28.54:792][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:792][351]LogFbx: =================================================
+[2019.03.07-14.28.54:792][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:792][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.54:792][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.54:792][351]LogFbx: =================================================
+[2019.03.07-14.28.54:792][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:arm_L] 
+[2019.03.07-14.28.54:792][351]LogFbx: 	Total Deformer Count -1712652736.
+[2019.03.07-14.28.54:792][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:792][351]LogFbx: =================================================
+[2019.03.07-14.28.54:793][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:793][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:arm_L (Type Mesh).
+[2019.03.07-14.28.54:793][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:arm_L]
+[2019.03.07-14.28.54:793][351]LogFbx: =================================================
+[2019.03.07-14.28.54:793][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.54:793][351]LogFbx: 	Total Deformer Count -1712652736.
+[2019.03.07-14.28.54:793][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:793][351]LogFbx: =================================================
+[2019.03.07-14.28.54:793][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:793][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.54:793][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.54:793][351]LogFbx: =================================================
+[2019.03.07-14.28.54:793][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:hand_L] 
+[2019.03.07-14.28.54:793][351]LogFbx: 	Total Deformer Count -1712652736.
+[2019.03.07-14.28.54:793][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:793][351]LogFbx: =================================================
+[2019.03.07-14.28.54:793][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:793][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:hand_L (Type Mesh).
+[2019.03.07-14.28.54:794][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:hand_L]
+[2019.03.07-14.28.54:794][351]LogFbx: =================================================
+[2019.03.07-14.28.54:794][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:head] 
+[2019.03.07-14.28.54:794][351]LogFbx: 	Total Deformer Count -1712652736.
+[2019.03.07-14.28.54:794][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:794][351]LogFbx: =================================================
+[2019.03.07-14.28.54:794][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:794][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:head (Type Mesh).
+[2019.03.07-14.28.54:794][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:head]
+[2019.03.07-14.28.54:794][351]LogFbx: =================================================
+[2019.03.07-14.28.54:794][351]LogFbx: Dumping Node START [Alien_RIG_MASTER_V2:head] 
+[2019.03.07-14.28.54:794][351]LogFbx: 	Total Deformer Count -1712652736.
+[2019.03.07-14.28.54:794][351]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.07-14.28.54:794][351]LogFbx: =================================================
+[2019.03.07-14.28.54:794][351]LogFbx: 	Attribute () Type (4).
+[2019.03.07-14.28.54:794][351]LogFbx: 		[Node Attribute Child 1] Alien_RIG_MASTER_V2:head (Type Mesh).
+[2019.03.07-14.28.54:795][351]LogFbx: Dumping Node END [Alien_RIG_MASTER_V2:head]
+[2019.03.07-14.28.54:801][351]LogFbx: SortedLinks :(0) Alien_BOI
+[2019.03.07-14.28.54:801][351]LogFbx: SortedLinks :(1) slugHead_geo
+[2019.03.07-14.28.54:801][351]LogFbx: SortedLinks :(2) slug_Eyes
+[2019.03.07-14.28.54:801][351]LogFbx: SortedLinks :(3) eyes
+[2019.03.07-14.28.54:801][351]LogFbx: SortedLinks :(4) slugHead_alien
+[2019.03.07-14.28.54:821][351]LogFbx: SortedLinks :(5) slug_Pants
+[2019.03.07-14.28.54:821][351]LogFbx: SortedLinks :(6) pants
+[2019.03.07-14.28.54:821][351]LogFbx: SortedLinks :(7) slug_Shoes
+[2019.03.07-14.28.54:821][351]LogFbx: SortedLinks :(8) shoes
+[2019.03.07-14.28.54:821][351]LogFbx: SortedLinks :(9) slug_vest
+[2019.03.07-14.28.54:821][351]LogFbx: SortedLinks :(10) vest
+[2019.03.07-14.28.54:821][351]LogFbx: SortedLinks :(11) slug_Arms
+[2019.03.07-14.28.54:821][351]LogFbx: SortedLinks :(12) arm_L
+[2019.03.07-14.28.54:821][351]LogFbx: SortedLinks :(13) slug_Hands
+[2019.03.07-14.28.54:821][351]LogFbx: SortedLinks :(14) hand_L
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(15) slug_Head
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(16) head
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(17) Root
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(18) Hip
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(19) Left_Leg
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(20) Left_Knee_1
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(21) Left_Knee_2
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(22) Left_Ankle
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(23) Left_ToeBase
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(24) Left_Toe
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(25) Right_Leg
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(26) Right_Knee_1
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(27) Right_Knee_2
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(28) Right_Ankle
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(29) Right_ToeBase
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(30) Right_Toe
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(31) Spine_1
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(32) Spine_2
+[2019.03.07-14.28.54:822][351]LogFbx: SortedLinks :(33) Chest
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(34) Left_Shoulder
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(35) Left_Arm
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(36) Left_Elbow_1
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(37) Left_Elbow_2
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(38) Left_Hand
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(39) Left_HandThumb1
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(40) Left_HandThumb2
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(41) Left_HandThumb3
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(42) Left_HandThumb4
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(43) Left_HandIndex1
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(44) Left_HandIndex2
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(45) Left_HandIndex3
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(46) Left_HandIndex4
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(47) L_Hand_Cup
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(48) Left_HandPinky1
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(49) Left_HandPinky2
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(50) Left_HandPinky3
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(51) Left_HandPinky4
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(52) Left_HandMiddle1
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(53) Left_HandMiddle2
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(54) Left_HandMiddle3
+[2019.03.07-14.28.54:823][351]LogFbx: SortedLinks :(55) Left_HandMiddle4
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(56) Neck
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(57) Neck_2
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(58) Neck_3
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(59) Character1_Head
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(60) Left_Eye_Tube_1
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(61) Left_Eye_Tube_2
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(62) Left_Eye_Tube_3
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(63) Left_Eye_Tube_4
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(64) Left_Eye
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(65) Right_Eye_Tube_1
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(66) Right_Eye_Tube_2
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(67) Right_Eye_Tube_3
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(68) Right_Eye_Tube_4
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(69) Right_Eye
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(70) Right_Shoulder
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(71) Right_Arm
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(72) Right_Elbow_1
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(73) Right_Elbow_2
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(74) Right_Hand
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(75) Right_HandThumb1
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(76) Right_HandThumb2
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(77) Right_HandThumb3
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(78) Right_HandThumb4
+[2019.03.07-14.28.54:824][351]LogFbx: SortedLinks :(79) Right_HandIndex1
+[2019.03.07-14.28.54:828][351]LogFbx: SortedLinks :(80) Right_HandIndex2
+[2019.03.07-14.28.54:828][351]LogFbx: SortedLinks :(81) Right_HandIndex3
+[2019.03.07-14.28.54:828][351]LogFbx: SortedLinks :(82) Right_HandIndex4
+[2019.03.07-14.28.54:828][351]LogFbx: SortedLinks :(83) R_Hand_Cup
+[2019.03.07-14.28.54:828][351]LogFbx: SortedLinks :(84) Right_HandPinky1
+[2019.03.07-14.28.54:828][351]LogFbx: SortedLinks :(85) Right_HandPinky2
+[2019.03.07-14.28.54:828][351]LogFbx: SortedLinks :(86) Right_HandPinky3
+[2019.03.07-14.28.54:828][351]LogFbx: SortedLinks :(87) Right_HandPinky4
+[2019.03.07-14.28.54:828][351]LogFbx: SortedLinks :(88) Right_HandMiddle1
+[2019.03.07-14.28.54:828][351]LogFbx: SortedLinks :(89) Right_HandMiddle2
+[2019.03.07-14.28.54:828][351]LogFbx: SortedLinks :(90) Right_HandMiddle3
+[2019.03.07-14.28.54:828][351]LogFbx: SortedLinks :(91) Right_HandMiddle4
+[2019.03.07-14.28.54:855][351]LogFbx: Parsing AnimStack Take 001
+[2019.03.07-14.28.54:939][351]LogLinker: Can't find file '/Game/Animation/slugHead_idle01_Anim'
+[2019.03.07-14.28.54:940][351]LogLinker: Can't find file '/Game/Animation/slugHead_idle01_Anim'
+[2019.03.07-14.28.56:697][351]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/slugHead_idle01_Anim.slugHead_idle01_Anim
+[2019.03.07-14.28.56:703][351]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.slugHead_idle01_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.03.07-14.28.56:767][351]LogSkeletalMesh: Building Skeletal Mesh slugHead_idle01...
+[2019.03.07-14.28.56:878][351]LogSkeletalMesh: Built Skeletal Mesh [0.11s] /Game/Animation/slugHead_idle01.slugHead_idle01
+[2019.03.07-14.28.56:963][351]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.03.07-14.28.56:963][351]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.03.07-14.28.56:985][351]LogSkeletalMesh: Building Skeletal Mesh slugHead_idle01...
+[2019.03.07-14.28.57:072][351]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/Animation/slugHead_idle01.slugHead_idle01
+[2019.03.07-14.29.31:528][658]LogSlate: Window 'Message Log' being destroyed
+[2019.03.07-14.29.31:537][658]LogSlate: Window 'Message Log' being destroyed
+[2019.03.07-14.29.36:582][795]LogSlate: Window 'Save Content' being destroyed
+[2019.03.07-14.29.36:662][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/slugHead_idle01" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/slugHead_idle01.uasset" SILENT=true
+[2019.03.07-14.29.37:658][795]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/slugHead_idle01DD56ED8746434466450C4DBF49EE6E7B.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/slugHead_idle01.uasset'
+[2019.03.07-14.29.37:726][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/slugHead_idle01_Anim" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/slugHead_idle01_Anim.uasset" SILENT=true
+[2019.03.07-14.29.37:903][795]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/slugHead_idle01_AnimB3AB32DF482440610559AB8F458E8389.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/slugHead_idle01_Anim.uasset'
+[2019.03.07-14.29.38:570][795]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/slugHead_idle01_PhysicsAsset210EDC8C45F29F67B639ADA7C02C3C80.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/slugHead_idle01_PhysicsAsset.uasset'
+[2019.03.07-14.30.22:252][ 31]BlueprintLog: New page: Compile AlienAI
+[2019.03.07-14.30.22:259][ 31]LogBlueprint: Warning: [Compiler AlienAI] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.30.22:259][ 31]LogBlueprint: Warning: [Compiler AlienAI] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.30.22:545][ 31]LogBlueprint: Warning: [Compiler AlienAI] [1589.93] Compile of AlienAI successful, but with 2 Warning(s) [in 292 ms] (/Game/Animation/AlienAI.AlienAI)
+[2019.03.07-14.30.31:049][ 38]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.03.07-14.30.41:133][225]BlueprintLog: New page: Compile AlienAI
+[2019.03.07-14.30.41:141][225]LogBlueprint: Warning: [Compiler AlienAI] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.30.41:141][225]LogBlueprint: Warning: [Compiler AlienAI] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.30.41:436][225]LogBlueprint: Warning: [Compiler AlienAI] [1608.82] Compile of AlienAI successful, but with 2 Warning(s) [in 303 ms] (/Game/Animation/AlienAI.AlienAI)
+[2019.03.07-14.31.16:316][363]BlueprintLog: New page: Compile AlienAI
+[2019.03.07-14.31.16:325][363]LogBlueprint: Warning: [Compiler AlienAI] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.31.16:326][363]LogBlueprint: Warning: [Compiler AlienAI] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.31.16:616][363]LogBlueprint: Warning: [Compiler AlienAI] [1644.00] Compile of AlienAI successful, but with 2 Warning(s) [in 300 ms] (/Game/Animation/AlienAI.AlienAI)
+[2019.03.07-14.31.17:067][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AlienAI" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset" SILENT=true
+[2019.03.07-14.31.17:544][407]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/AlienAI64B4D18E45E631D23027508E7ABFAED4.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset'
+[2019.03.07-14.34.04:453][178]LogSlate: Took 0.004587 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.07-14.34.07:106][491]BlueprintLog: New page: Compile AlienAI
+[2019.03.07-14.34.07:116][491]LogBlueprint: Warning: [Compiler AlienAI] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.34.07:116][491]LogBlueprint: Warning: [Compiler AlienAI] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.34.07:417][491]LogBlueprint: Warning: [Compiler AlienAI] [1814.80] Compile of AlienAI successful, but with 2 Warning(s) [in 310 ms] (/Game/Animation/AlienAI.AlienAI)
+[2019.03.07-14.34.12:591][ 87]BlueprintLog: New page: Compile AlienAI
+[2019.03.07-14.34.12:601][ 87]LogBlueprint: Warning: [Compiler AlienAI] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.34.12:601][ 87]LogBlueprint: Warning: [Compiler AlienAI] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.34.12:877][ 87]LogBlueprint: Warning: [Compiler AlienAI] [1820.27] Compile of AlienAI successful, but with 2 Warning(s) [in 286 ms] (/Game/Animation/AlienAI.AlienAI)
+[2019.03.07-14.34.45:405][836]BlueprintLog: New page: Compile AlienAI
+[2019.03.07-14.34.45:416][836]LogBlueprint: Warning: [Compiler AlienAI] 'Alien AI' does not inherit from 'Pawn' ( Cast To AlienAI  would always fail).
+[2019.03.07-14.34.45:417][836]LogBlueprint: Warning: [Compiler AlienAI] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.34.45:418][836]LogBlueprint: Warning: [Compiler AlienAI] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.34.45:418][836]LogBlueprint: Warning: [Compiler AlienAI] 'Alien AI' does not inherit from 'Pawn' ( Cast To AlienAI  would always fail).
+[2019.03.07-14.34.45:721][836]LogBlueprint: Warning: [Compiler AlienAI] [1853.11] Compile of AlienAI successful, but with 4 Warning(s) [in 316 ms] (/Game/Animation/AlienAI.AlienAI)
+[2019.03.07-14.37.19:419][941]BlueprintLog: New page: Compile AlienAI
+[2019.03.07-14.37.19:429][941]LogBlueprint: Warning: [Compiler AlienAI] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.37.19:429][941]LogBlueprint: Warning: [Compiler AlienAI] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.37.19:723][941]LogBlueprint: Warning: [Compiler AlienAI] [2007.11] Compile of AlienAI successful, but with 2 Warning(s) [in 304 ms] (/Game/Animation/AlienAI.AlienAI)
+[2019.03.07-14.37.20:417][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AlienAI" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset" SILENT=true
+[2019.03.07-14.37.20:932][ 16]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/AlienAI37F72AFD42163A43DC0B41B4DBE76E82.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset'
+[2019.03.07-14.37.25:799][491]LogSkeletalMesh: Building Skeletal Mesh slugHead_bones...
+[2019.03.07-14.37.25:840][491]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/aliens/slugHead_bones.slugHead_bones
+[2019.03.07-14.37.25:844][491]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.03.07-14.37.25:898][491]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.03.07-14.37.25:898][491]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.03.07-14.37.25:898][491]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.07-14.37.25:898][491]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.07-14.37.25:898][491]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.07-14.37.25:898][491]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.07-14.37.25:909][491]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Aliens.Aliens
+[2019.03.07-14.37.34:043][332]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.07-14.37.52:736][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-14.37.52:827][263]BlueprintLog: New page: Compile Aliens
+[2019.03.07-14.37.53:635][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Aliens" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Blueprints/Aliens.uasset" SILENT=true
+[2019.03.07-14.37.53:887][304]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/AliensF2552BBC44997F904C18C1963F3A206B.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Blueprints/Aliens.uasset'
+[2019.03.07-14.37.56:969][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AlienAI" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset" SILENT=true
+[2019.03.07-14.37.57:473][641]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/AlienAI8427E7F9424A3D03E61CF09E664C1B6F.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset'
+[2019.03.07-14.37.57:998][696]BlueprintLog: New page: Compile AlienAI
+[2019.03.07-14.37.58:008][696]LogBlueprint: Warning: [Compiler AlienAI] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.37.58:008][696]LogBlueprint: Warning: [Compiler AlienAI] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.37.58:302][696]LogBlueprint: Warning: [Compiler AlienAI] [2045.69] Compile of AlienAI successful, but with 2 Warning(s) [in 304 ms] (/Game/Animation/AlienAI.AlienAI)
+[2019.03.07-14.39.58:575][200]BlueprintLog: New page: Compile AlienAI
+[2019.03.07-14.39.58:589][200]LogBlueprint: Warning: [Compiler AlienAI] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.39.58:590][200]LogBlueprint: Warning: [Compiler AlienAI] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.39.58:882][200]LogBlueprint: Warning: [Compiler AlienAI] [2166.27] Compile of AlienAI successful, but with 2 Warning(s) [in 307 ms] (/Game/Animation/AlienAI.AlienAI)
+[2019.03.07-14.39.59:386][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AlienAI" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset" SILENT=true
+[2019.03.07-14.39.59:934][250]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/AlienAI3825BEBE4019BFA4EB055AB6D14FE808.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset'
+[2019.03.07-14.40.26:264][282]BlueprintLog: New page: Compile AlienAI
+[2019.03.07-14.40.26:279][282]LogBlueprint: Warning: [Compiler AlienAI] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.40.26:280][282]LogBlueprint: Warning: [Compiler AlienAI] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.40.26:603][282]LogBlueprint: Warning: [Compiler AlienAI] [2193.99] Compile of AlienAI successful, but with 2 Warning(s) [in 338 ms] (/Game/Animation/AlienAI.AlienAI)
+[2019.03.07-14.40.27:057][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AlienAI" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset" SILENT=true
+[2019.03.07-14.40.27:605][326]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/AlienAIC042DA164E7A9D9ADD68A484626270FE.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset'
+[2019.03.07-14.40.53:576][245]BlueprintLog: New page: Compile AlienAI
+[2019.03.07-14.40.53:589][245]LogBlueprint: Warning: [Compiler AlienAI] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2019.03.07-14.40.53:905][245]LogBlueprint: Warning: [Compiler AlienAI] [2221.29] Compile of AlienAI successful, but with 1 Warning(s) [in 328 ms] (/Game/Animation/AlienAI.AlienAI)
+[2019.03.07-14.41.44:993][831]BlueprintLog: New page: Compile AlienAI
+[2019.03.07-14.42.05:839][249]BlueprintLog: New page: Compile AlienAI
+[2019.03.07-14.42.07:530][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AlienAI" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset" SILENT=true
+[2019.03.07-14.42.08:106][405]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/AlienAI400704374D381F60CB3E4A9D2D6EE572.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Animation/AlienAI.uasset'
+[2019.03.07-14.42.16:334][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-14.42.19:644][669]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Aliens.Aliens
+[2019.03.07-14.42.33:062][190]BlueprintLog: New page: Compile Aliens
+[2019.03.07-14.42.41:353][139]BlueprintLog: New page: Compile Aliens
+[2019.03.07-14.42.42:107][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Aliens" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Blueprints/Aliens.uasset" SILENT=true
+[2019.03.07-14.42.42:288][184]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/AliensA5AADFC84C816D6E3731DAB7CF89256B.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Blueprints/Aliens.uasset'
+[2019.03.07-14.42.51:472][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-14.43.02:398][547]BlueprintLog: New page: Compile Aliens
+[2019.03.07-14.43.03:180][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Aliens" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Blueprints/Aliens.uasset" SILENT=true
+[2019.03.07-14.43.03:381][594]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Saved/AliensA2F933DF4388B51B093C94AEAA70E80F.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanstuffFinal/MyProject3/Content/Blueprints/Aliens.uasset'
