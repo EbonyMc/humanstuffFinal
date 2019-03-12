@@ -1269,3 +1269,1210 @@ Make sure 'MotionControllerPawn_C' has been compiled for  Get Lghts
 [2019.03.12-06.39.05:521][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.03.12-06.40.13:111][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.03.12-06.40.23:436][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-06.44.00:885][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.12-06.44.00:905][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.12-06.44.01:942][491]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Level143CDD79E405B00E9C485999146992787.tmp' to 'D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.03.12-06.44.01:977][491]LogFileHelpers: Saving map 'Level1' took 1.072
+[2019.03.12-06.44.02:006][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scannables" FILE="D:/humanstuffFinal/MyProject3/Content/Blueprints/Scannables.uasset" SILENT=true
+[2019.03.12-06.44.02:092][491]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Scannables69A9D51B4AFDBC16FD14208FF6B0D02A.tmp' to 'D:/humanstuffFinal/MyProject3/Content/Blueprints/Scannables.uasset'
+[2019.03.12-06.44.02:105][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/MotionControllerPawn" FILE="D:/humanstuffFinal/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" SILENT=true
+[2019.03.12-06.44.02:215][491]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/MotionControllerPawn090DADEA41F015B7110021BA593A2CAA.tmp' to 'D:/humanstuffFinal/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.03.12-06.44.18:153][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-06.44.18:276][368]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-06.44.18:362][368]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.44.18:362][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-06.44.18:362][368]LogHMD: Initializing OVRPlugin session
+[2019.03.12-06.44.18:710][368]PIE: New page: PIE session: Level1 (Mar 11, 2019, 10:44:18 PM)
+[2019.03.12-06.44.18:710][368]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-06.44.18:770][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059952s)
+[2019.03.12-06.44.18:770][368]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-06.44.18:771][368]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2019.03.12-06.44.18:771][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.060873s)
+[2019.03.12-06.44.18:852][368]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-06.44.18:863][368]LogInit: FAudioDevice initialized.
+[2019.03.12-06.44.18:871][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.44.18:969][368]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-06.44.19:005][368]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-06.44.19:043][368]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-02.44.19
+[2019.03.12-06.44.19:049][368]LogWorld: Bringing up level for play took: 0.043050
+[2019.03.12-06.44.19:066][368]Cmd: vr.bEnableStereo True
+[2019.03.12-06.44.19:067][368]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-06.44.19:090][368]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.245
+[2019.03.12-06.44.19:093][368]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.44.19:095][368]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.44.19:112][368]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-06.44.19:112][368]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-06.44.19:820][399]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:15D7
+[2019.03.12-06.44.19:821][399]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-06.44.42:597][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.44.42:671][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.44.42:744][424]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-06.44.42:847][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-06.44.42:849][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.44.42:977][425]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.03.12-06.44.42:978][425]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.44.44:418][503]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.44.44:429][503]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.44.47:679][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_sign_pCube21)
+[2019.03.12-06.44.50:478][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-06.44.57:846][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.12-06.44.58:862][250]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Level1247891EB41EC364A705B16A1ECDF8E06.tmp' to 'D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.03.12-06.44.58:896][250]LogFileHelpers: Saving map 'Level1' took 1.050
+[2019.03.12-06.44.59:621][293]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-06.44.59:645][293]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.44.59:645][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-06.44.59:645][293]LogHMD: Initializing OVRPlugin session
+[2019.03.12-06.44.59:909][293]PIE: New page: PIE session: Level1 (Mar 11, 2019, 10:44:59 PM)
+[2019.03.12-06.44.59:909][293]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-06.44.59:968][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059016s)
+[2019.03.12-06.44.59:969][293]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-06.44.59:969][293]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2019.03.12-06.44.59:969][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.059959s)
+[2019.03.12-06.45.00:028][293]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-06.45.00:039][293]LogInit: FAudioDevice initialized.
+[2019.03.12-06.45.00:050][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.45.00:148][293]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-06.45.00:182][293]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-06.45.00:212][293]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-02.45.00
+[2019.03.12-06.45.00:218][293]LogWorld: Bringing up level for play took: 0.033843
+[2019.03.12-06.45.00:239][293]Cmd: vr.bEnableStereo True
+[2019.03.12-06.45.00:239][293]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-06.45.00:252][293]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 1.406
+[2019.03.12-06.45.00:253][293]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.45.00:255][293]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.45.00:262][293]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-06.45.00:262][293]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-06.45.00:932][329]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:15D7
+[2019.03.12-06.45.00:932][329]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-06.46.41:204][871]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.46.41:277][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.46.41:347][871]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-06.46.41:428][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-06.46.41:429][871]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.46.41:590][872]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.03.12-06.46.41:591][872]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.46.47:422][176]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Spawner.Spawner
+[2019.03.12-06.47.03:936][136]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.47.03:936][136]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.47.19:772][ 61]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.03.12-06.47.20:061][ 73]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2019.03.12-06.47.21:340][145]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2019.03.12-06.47.24:700][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-06.47.27:384][492]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2019.03.12-06.47.28:985][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-06.47.49:218][631]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.47.49:229][631]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.47.59:637][253]LogEditorTransaction: Undo Create Pin Link
+[2019.03.12-06.48.00:518][295]LogEditorTransaction: Undo Break Pin Links
+[2019.03.12-06.48.10:441][880]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:441][880]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:447][880]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:449][880]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:458][881]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:460][881]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:463][881]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:475][882]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:478][882]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:483][882]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:491][883]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:494][883]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:497][883]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:508][884]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:510][884]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.10:516][884]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.48.12:710][ 16]BlueprintLog: New page: Compile Spawner
+[2019.03.12-06.48.33:601][219]BlueprintLog: New page: Compile Scannables
+[2019.03.12-06.48.45:949][905]LogEditorViewport: Clicking on Actor (LMB): Trash_C (Trash5)
+[2019.03.12-06.49.02:719][892]Cmd: DELETE
+[2019.03.12-06.49.02:719][892]Cmd: ACTOR DELETE
+[2019.03.12-06.49.02:760][892]LogEditorActor: Deleted Actor: Trash_C
+[2019.03.12-06.49.02:808][892]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2019.03.12-06.49.04:270][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.12-06.49.04:292][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.12-06.49.05:270][977]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Level10175450E4C7592F054C56B86A44AAD9D.tmp' to 'D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.03.12-06.49.05:308][977]LogFileHelpers: Saving map 'Level1' took 1.017
+[2019.03.12-06.49.05:338][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scannables" FILE="D:/humanstuffFinal/MyProject3/Content/Blueprints/Scannables.uasset" SILENT=true
+[2019.03.12-06.49.05:423][977]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Scannables95ABA6FA4077D844CE786C8BC90F606E.tmp' to 'D:/humanstuffFinal/MyProject3/Content/Blueprints/Scannables.uasset'
+[2019.03.12-06.49.05:450][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spawner" FILE="D:/humanstuffFinal/MyProject3/Content/Blueprints/Spawner.uasset" SILENT=true
+[2019.03.12-06.49.05:551][977]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/SpawnerACBBE4504D8921D21B5281AE855EC66B.tmp' to 'D:/humanstuffFinal/MyProject3/Content/Blueprints/Spawner.uasset'
+[2019.03.12-06.49.09:487][211]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-06.49.09:538][211]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.49.09:538][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-06.49.09:538][211]LogHMD: Initializing OVRPlugin session
+[2019.03.12-06.49.09:831][211]PIE: New page: PIE session: Level1 (Mar 11, 2019, 10:49:09 PM)
+[2019.03.12-06.49.09:831][211]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-06.49.09:889][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057440s)
+[2019.03.12-06.49.09:889][211]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-06.49.09:890][211]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2019.03.12-06.49.09:890][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.058358s)
+[2019.03.12-06.49.09:946][211]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-06.49.09:956][211]LogInit: FAudioDevice initialized.
+[2019.03.12-06.49.09:963][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.49.10:056][211]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-06.49.10:089][211]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-06.49.10:128][211]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-02.49.10
+[2019.03.12-06.49.10:131][211]LogWorld: Bringing up level for play took: 0.040571
+[2019.03.12-06.49.10:145][211]Cmd: vr.bEnableStereo True
+[2019.03.12-06.49.10:145][211]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-06.49.10:160][211]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 1.314
+[2019.03.12-06.49.10:160][211]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.49.10:161][211]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.49.10:174][211]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-06.49.10:174][211]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-06.49.10:850][247]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:15D7
+[2019.03.12-06.49.10:850][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-06.49.43:256][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.49.43:329][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.49.43:396][740]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-06.49.43:458][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-06.49.43:460][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.49.43:664][741]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.03.12-06.49.43:665][741]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.49.48:280][960]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.49.48:291][960]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.50.37:320][812]BlueprintLog: New page: Compile Scannables
+[2019.03.12-06.50.49:010][481]BlueprintLog: New page: Compile Scannables
+[2019.03.12-06.50.51:574][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.12-06.50.52:569][600]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Level11DFF30034E7A46042BDAA6BD5C429183.tmp' to 'D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.03.12-06.50.52:605][600]LogFileHelpers: Saving map 'Level1' took 1.032
+[2019.03.12-06.50.52:631][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scannables" FILE="D:/humanstuffFinal/MyProject3/Content/Blueprints/Scannables.uasset" SILENT=true
+[2019.03.12-06.50.52:716][600]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/ScannablesB22EB177492802E06494E5925F23C471.tmp' to 'D:/humanstuffFinal/MyProject3/Content/Blueprints/Scannables.uasset'
+[2019.03.12-06.50.53:195][628]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-06.50.53:236][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.50.53:236][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-06.50.53:236][628]LogHMD: Initializing OVRPlugin session
+[2019.03.12-06.50.53:500][628]PIE: New page: PIE session: Level1 (Mar 11, 2019, 10:50:53 PM)
+[2019.03.12-06.50.53:500][628]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-06.50.53:566][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065676s)
+[2019.03.12-06.50.53:567][628]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-06.50.53:567][628]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2019.03.12-06.50.53:567][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.066759s)
+[2019.03.12-06.50.53:625][628]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-06.50.53:635][628]LogInit: FAudioDevice initialized.
+[2019.03.12-06.50.53:643][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.50.53:737][628]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-06.50.53:774][628]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-06.50.53:801][628]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-02.50.53
+[2019.03.12-06.50.53:810][628]LogWorld: Bringing up level for play took: 0.034492
+[2019.03.12-06.50.53:827][628]Cmd: vr.bEnableStereo True
+[2019.03.12-06.50.53:827][628]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-06.50.53:840][628]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.995
+[2019.03.12-06.50.53:842][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.50.53:846][628]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.50.53:860][628]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-06.50.53:860][628]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-06.50.54:543][665]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:15D7
+[2019.03.12-06.50.54:544][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-06.51.36:288][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.51.36:359][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.51.36:422][555]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-06.51.36:487][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-06.51.36:487][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.51.36:611][556]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.03.12-06.51.36:612][556]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.51.37:913][628]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.51.37:919][628]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.51.42:255][831]LogSlate: Window 'Alien' being destroyed
+[2019.03.12-06.51.42:261][831]LogSlate: Window 'Alien' being destroyed
+[2019.03.12-06.52.15:924][835]BlueprintLog: New page: Compile Scannables
+[2019.03.12-06.52.25:166][361]BlueprintLog: New page: Compile Scannables
+[2019.03.12-06.52.27:154][453]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-06.52.27:196][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.52.27:197][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-06.52.27:197][453]LogHMD: Initializing OVRPlugin session
+[2019.03.12-06.52.27:454][453]PIE: New page: PIE session: Level1 (Mar 11, 2019, 10:52:27 PM)
+[2019.03.12-06.52.27:454][453]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-06.52.27:510][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056161s)
+[2019.03.12-06.52.27:510][453]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-06.52.27:510][453]LogPlayLevel: PIE: World Init took: (0.000458s)
+[2019.03.12-06.52.27:510][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.056902s)
+[2019.03.12-06.52.27:564][453]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-06.52.27:574][453]LogInit: FAudioDevice initialized.
+[2019.03.12-06.52.27:582][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.52.27:659][453]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-06.52.27:690][453]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-06.52.27:715][453]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-02.52.27
+[2019.03.12-06.52.27:717][453]LogWorld: Bringing up level for play took: 0.026439
+[2019.03.12-06.52.27:731][453]Cmd: vr.bEnableStereo True
+[2019.03.12-06.52.27:731][453]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-06.52.27:736][453]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.891
+[2019.03.12-06.52.27:737][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.52.27:737][453]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.52.27:747][453]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-06.52.27:747][453]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-06.52.28:394][502]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:15D7
+[2019.03.12-06.52.28:394][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-06.53.15:584][895]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.53.15:657][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.53.15:717][895]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-06.53.15:776][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-06.53.15:777][895]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.53.15:906][896]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.03.12-06.53.15:907][896]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.53.17:431][983]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.53.17:439][983]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.53.44:687][596]BlueprintLog: New page: Compile Scannables
+[2019.03.12-06.54.03:109][672]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-06.54.03:149][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.54.03:149][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-06.54.03:149][672]LogHMD: Initializing OVRPlugin session
+[2019.03.12-06.54.03:408][672]PIE: New page: PIE session: Level1 (Mar 11, 2019, 10:54:03 PM)
+[2019.03.12-06.54.03:408][672]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-06.54.03:468][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058739s)
+[2019.03.12-06.54.03:468][672]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-06.54.03:468][672]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2019.03.12-06.54.03:468][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.059755s)
+[2019.03.12-06.54.03:524][672]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-06.54.03:534][672]LogInit: FAudioDevice initialized.
+[2019.03.12-06.54.03:541][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.54.03:620][672]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-06.54.03:651][672]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-06.54.03:674][672]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-02.54.03
+[2019.03.12-06.54.03:677][672]LogWorld: Bringing up level for play took: 0.025566
+[2019.03.12-06.54.03:691][672]Cmd: vr.bEnableStereo True
+[2019.03.12-06.54.03:691][672]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-06.54.03:696][672]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.851
+[2019.03.12-06.54.03:697][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.54.03:698][672]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.54.03:707][672]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-06.54.03:708][672]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-06.54.04:359][719]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:15D7
+[2019.03.12-06.54.04:359][719]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-06.54.20:837][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.54.20:909][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.54.20:983][ 15]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-06.54.21:034][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-06.54.21:034][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.54.21:164][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.03.12-06.54.21:164][ 16]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.54.22:612][ 99]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.54.22:618][ 99]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.54.27:605][313]LogEditorTransaction: Undo Add Node
+[2019.03.12-06.54.27:855][321]LogEditorTransaction: Undo Move Node
+[2019.03.12-06.54.30:681][483]LogEditorTransaction: Undo Create Pin Link
+[2019.03.12-06.54.36:609][830]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UPrimitiveComponent::AddImpulse' [Attempt to access invalid address.]
+[2019.03.12-06.54.40:335][ 53]BlueprintLog: New page: Compile Scannables
+[2019.03.12-06.54.42:428][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.12-06.54.43:415][146]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Level18188E44F459B4972746904A709D3C15D.tmp' to 'D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.03.12-06.54.43:449][146]LogFileHelpers: Saving map 'Level1' took 1.021
+[2019.03.12-06.54.43:484][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scannables" FILE="D:/humanstuffFinal/MyProject3/Content/Blueprints/Scannables.uasset" SILENT=true
+[2019.03.12-06.54.43:566][146]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Scannables87DF884C4775AB3941907F8EB4691632.tmp' to 'D:/humanstuffFinal/MyProject3/Content/Blueprints/Scannables.uasset'
+[2019.03.12-06.55.05:674][465]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.03.12-06.55.15:915][ 38]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.15:916][ 38]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.15:918][ 38]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.15:920][ 38]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.15:932][ 39]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.15:934][ 39]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.15:937][ 39]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:164][ 53]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:165][ 53]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:170][ 53]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:172][ 53]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:183][ 54]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:184][ 54]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:199][ 55]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:202][ 55]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:215][ 56]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:218][ 56]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:219][ 56]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:234][ 57]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:235][ 57]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:248][ 58]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:250][ 58]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:252][ 58]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:266][ 59]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:269][ 59]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:283][ 60]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:284][ 60]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:298][ 61]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:299][ 61]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:302][ 61]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:315][ 62]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:317][ 62]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:318][ 62]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:333][ 63]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:335][ 63]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:348][ 64]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:350][ 64]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:352][ 64]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:365][ 65]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:367][ 65]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.55.16:369][ 65]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-06.56.06:823][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.12-06.56.07:777][ 88]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Level1B02837DA42508BA0A04E1EB6A6F1CA47.tmp' to 'D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.03.12-06.56.07:811][ 88]LogFileHelpers: Saving map 'Level1' took 0.988
+[2019.03.12-06.56.08:365][121]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-06.56.08:423][121]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.56.08:423][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-06.56.08:424][121]LogHMD: Initializing OVRPlugin session
+[2019.03.12-06.56.08:681][121]PIE: New page: PIE session: Level1 (Mar 11, 2019, 10:56:08 PM)
+[2019.03.12-06.56.08:681][121]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-06.56.08:739][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057075s)
+[2019.03.12-06.56.08:739][121]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-06.56.08:739][121]LogPlayLevel: PIE: World Init took: (0.000454s)
+[2019.03.12-06.56.08:739][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.057811s)
+[2019.03.12-06.56.08:785][121]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-06.56.08:796][121]LogInit: FAudioDevice initialized.
+[2019.03.12-06.56.08:805][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.56.08:882][121]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-06.56.08:912][121]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-06.56.08:935][121]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-02.56.08
+[2019.03.12-06.56.08:938][121]LogWorld: Bringing up level for play took: 0.025091
+[2019.03.12-06.56.08:952][121]Cmd: vr.bEnableStereo True
+[2019.03.12-06.56.08:952][121]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-06.56.08:961][121]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.115
+[2019.03.12-06.56.08:961][121]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.56.08:962][121]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.56.08:970][121]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-06.56.08:970][121]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-06.56.09:622][166]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:15D7
+[2019.03.12-06.56.09:622][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-06.57.04:473][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.57.04:541][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.57.04:598][371]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-06.57.04:686][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-06.57.04:687][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.57.04:795][372]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.03.12-06.57.04:796][372]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.57.08:215][572]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.57.08:220][572]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.57.32:135][920]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.03.12-06.57.34:053][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-06.57.40:397][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.12-06.57.41:354][408]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Level1E47C4BE44B712A6BF26821A65419F0B0.tmp' to 'D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.03.12-06.57.41:389][408]LogFileHelpers: Saving map 'Level1' took 0.993
+[2019.03.12-06.58.37:561][764]BlueprintLog: New page: Compile Scannables
+[2019.03.12-06.58.40:004][881]LogEditorTransaction: Undo Create Pin Link
+[2019.03.12-06.58.40:523][905]LogEditorTransaction: Undo Create Pin Link
+[2019.03.12-06.58.41:696][969]LogEditorTransaction: Undo Break Pin Links
+[2019.03.12-06.58.43:358][ 62]BlueprintLog: New page: Compile Scannables
+[2019.03.12-06.58.44:038][ 75]BlueprintLog: New page: Compile Scannables
+[2019.03.12-06.58.49:985][398]BlueprintLog: New page: Compile Scannables
+[2019.03.12-06.58.51:914][486]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-06.58.51:955][486]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.58.51:955][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-06.58.51:955][486]LogHMD: Initializing OVRPlugin session
+[2019.03.12-06.58.52:225][486]PIE: New page: PIE session: Level1 (Mar 11, 2019, 10:58:52 PM)
+[2019.03.12-06.58.52:225][486]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-06.58.52:283][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057178s)
+[2019.03.12-06.58.52:283][486]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-06.58.52:283][486]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2019.03.12-06.58.52:283][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.057976s)
+[2019.03.12-06.58.52:366][486]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-06.58.52:374][486]LogInit: FAudioDevice initialized.
+[2019.03.12-06.58.52:379][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.58.52:469][486]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-06.58.52:500][486]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-06.58.52:524][486]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-02.58.52
+[2019.03.12-06.58.52:526][486]LogWorld: Bringing up level for play took: 0.025066
+[2019.03.12-06.58.52:540][486]Cmd: vr.bEnableStereo True
+[2019.03.12-06.58.52:540][486]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-06.58.52:546][486]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 -0.299
+[2019.03.12-06.58.52:547][486]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.58.52:547][486]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.58.52:557][486]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-06.58.52:557][486]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-06.58.53:205][535]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:15D7
+[2019.03.12-06.58.53:206][535]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-06.59.19:191][715]LogScript: Warning: Attempted to access Scannables_C_3 via property ScanVar, but Scannables_C_3 is pending kill
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:15D7
+[2019.03.12-06.59.19:191][715]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property ScanVar, but Scannables_C_3 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-06.59.26:295][194]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.59.26:368][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-06.59.26:422][194]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-06.59.26:474][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-06.59.26:475][194]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-06.59.26:598][195]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.03.12-06.59.26:598][195]LogEngine: Changing dynamic resolution state.
+[2019.03.12-06.59.30:756][438]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-06.59.30:760][438]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.00.00:449][119]BlueprintLog: New page: Compile Scannables
+[2019.03.12-07.00.15:831][  5]BlueprintLog: New page: Compile Scannables
+[2019.03.12-07.00.47:393][847]LogEditorTransaction: Undo Delete current selection
+[2019.03.12-07.00.48:182][887]LogEditorTransaction: Undo Delete current selection
+[2019.03.12-07.00.48:450][896]LogEditorTransaction: Undo Add Node
+[2019.03.12-07.00.48:687][909]LogEditorTransaction: Undo Move Nodes
+[2019.03.12-07.01.47:063][355]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.03.12-07.01.49:323][461]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-07.01.49:372][461]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.01.49:372][461]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.12-07.01.49:418][461]LogPlayLevel: [PlayLevel] Compiling Scannables before play...
+[2019.03.12-07.01.49:745][461]LogPlayLevel: PlayLevel: Blueprint regeneration took 374 ms (1 blueprints)
+[2019.03.12-07.01.49:745][461]LogHMD: Initializing OVRPlugin session
+[2019.03.12-07.01.50:006][461]PIE: New page: PIE session: Level1 (Mar 11, 2019, 11:01:50 PM)
+[2019.03.12-07.01.50:006][461]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-07.01.50:061][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055129s)
+[2019.03.12-07.01.50:061][461]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-07.01.50:062][461]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2019.03.12-07.01.50:062][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.055872s)
+[2019.03.12-07.01.50:111][461]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-07.01.50:120][461]LogInit: FAudioDevice initialized.
+[2019.03.12-07.01.50:127][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.01.50:206][461]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-07.01.50:239][461]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-07.01.50:260][461]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-03.01.50
+[2019.03.12-07.01.50:263][461]LogWorld: Bringing up level for play took: 0.023539
+[2019.03.12-07.01.50:278][461]Cmd: vr.bEnableStereo True
+[2019.03.12-07.01.50:278][461]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-07.01.50:284][461]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 1.439
+[2019.03.12-07.01.50:285][461]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.01.50:287][461]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.01.50:295][461]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-07.01.50:295][461]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-07.01.50:935][508]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:15D7
+[2019.03.12-07.01.50:935][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-07.02.31:001][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.02.31:071][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.02.31:127][741]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-07.02.31:177][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-07.02.31:177][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.02.31:295][742]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.03.12-07.02.31:296][742]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.02.32:859][830]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.02.32:864][830]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.02.41:341][257]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.41:342][257]LogEditorTransaction: Undo Change Bool Pin Value
+[2019.03.12-07.02.41:580][271]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.41:580][271]LogEditorTransaction: Undo Create Pin Link
+[2019.03.12-07.02.41:770][282]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.41:770][282]LogEditorTransaction: Undo Create Pin Link
+[2019.03.12-07.02.41:960][293]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.41:960][293]LogEditorTransaction: Undo Break Pin Links
+[2019.03.12-07.02.42:166][305]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.42:166][305]LogEditorTransaction: Undo Move Node
+[2019.03.12-07.02.42:335][315]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.42:335][315]LogEditorTransaction: Undo Add Node
+[2019.03.12-07.02.42:552][328]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.42:552][328]LogEditorTransaction: Undo Move Node
+[2019.03.12-07.02.42:754][340]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.42:754][340]LogEditorTransaction: Undo Add Node
+[2019.03.12-07.02.42:957][352]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.42:957][352]LogEditorTransaction: Undo Add Node
+[2019.03.12-07.02.43:126][362]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.43:126][362]LogEditorTransaction: Undo Delete current selection
+[2019.03.12-07.02.43:317][373]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.43:318][373]LogEditorTransaction: Undo Rename Node
+[2019.03.12-07.02.43:537][386]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.43:537][386]LogEditorTransaction: Undo Rename Node
+[2019.03.12-07.02.43:770][400]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.43:770][400]LogEditorTransaction: Undo Add Node
+[2019.03.12-07.02.43:973][412]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.43:973][412]LogEditorTransaction: Undo Create Pin Link
+[2019.03.12-07.02.44:172][424]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.44:172][424]LogEditorTransaction: Undo Delete current selection
+[2019.03.12-07.02.44:375][436]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.44:375][436]LogEditorTransaction: Undo Rename Node
+[2019.03.12-07.02.44:692][455]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.44:692][455]LogEditorTransaction: Undo Rename Node
+[2019.03.12-07.02.44:960][471]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.44:960][471]LogEditorTransaction: Undo Add Node
+[2019.03.12-07.02.45:179][484]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.45:179][484]LogEditorTransaction: Undo Delete current selection
+[2019.03.12-07.02.45:380][496]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.45:380][496]LogEditorTransaction: Undo Move Node
+[2019.03.12-07.02.45:681][514]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.45:681][514]LogEditorTransaction: Undo Create Pin Link
+[2019.03.12-07.02.46:123][534]Cmd: TRANSACTION UNDO
+[2019.03.12-07.02.46:123][534]LogEditorTransaction: Undo Delete current selection
+[2019.03.12-07.02.48:521][671]LogEditorTransaction: Redo Delete current selection
+[2019.03.12-07.02.48:798][681]LogEditorTransaction: Redo Create Pin Link
+[2019.03.12-07.02.49:847][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scannables" FILE="D:/humanstuffFinal/MyProject3/Content/Blueprints/Scannables.uasset" SILENT=true
+[2019.03.12-07.02.49:929][735]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/ScannablesC74C645049610EF1370927BAA22DC0B2.tmp' to 'D:/humanstuffFinal/MyProject3/Content/Blueprints/Scannables.uasset'
+[2019.03.12-07.02.51:043][801]BlueprintLog: New page: Compile Scannables
+[2019.03.12-07.02.51:900][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.12-07.02.52:882][819]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Level1EEABEF07413D492D7862579B4D310C7E.tmp' to 'D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.03.12-07.02.52:915][819]LogFileHelpers: Saving map 'Level1' took 1.017
+[2019.03.12-07.02.52:927][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/MotionControllerPawn" FILE="D:/humanstuffFinal/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" SILENT=true
+[2019.03.12-07.02.53:030][819]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/MotionControllerPawnBDF545EB4323C445F2C15BB7C1545064.tmp' to 'D:/humanstuffFinal/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.03.12-07.08.31:290][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_wall40)
+[2019.03.12-07.15.20:456][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.12-07.18.52:674][822]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.03.12-07.20.58:479][794]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:479][794]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:482][794]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:485][794]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:496][795]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:497][795]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:499][795]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:512][796]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:514][796]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:517][796]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:529][797]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:530][797]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:533][797]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:546][798]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:547][798]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:549][798]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:563][799]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:563][799]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:566][799]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:579][800]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:580][800]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:583][800]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:596][801]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:598][801]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:613][802]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:614][802]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:629][803]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:631][803]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:646][804]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:648][804]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:662][805]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:663][805]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:665][805]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:679][806]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:682][806]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:696][807]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:698][807]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:713][808]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:715][808]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:729][809]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:730][809]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:732][809]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:745][810]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:746][810]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:749][810]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:762][811]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:763][811]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:765][811]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:779][812]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:780][812]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:782][812]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:796][813]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:796][813]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:799][813]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:812][814]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:814][814]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:816][814]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:829][815]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:830][815]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.20.58:832][815]LogUObjectArray: Warning: Other object in slot
+[2019.03.12-07.21.00:062][889]BlueprintLog: New page: Compile Spawner
+[2019.03.12-07.21.13:864][690]LogEditorTransaction: Undo Create Pin Link
+[2019.03.12-07.21.14:429][717]LogEditorTransaction: Undo Add Node
+[2019.03.12-07.21.14:926][740]LogEditorTransaction: Undo Move Node
+[2019.03.12-07.21.17:118][865]BlueprintLog: New page: Compile Spawner
+[2019.03.12-07.21.45:944][560]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.03.12-07.21.46:815][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.12-07.21.47:755][578]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Level1F7F13D0E437EF866E5C3788945909381.tmp' to 'D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.03.12-07.21.47:789][578]LogFileHelpers: Saving map 'Level1' took 0.974
+[2019.03.12-07.21.47:800][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/MotionControllerPawn" FILE="D:/humanstuffFinal/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" SILENT=true
+[2019.03.12-07.21.47:912][578]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/MotionControllerPawn0821C2C14A02429AE4D3C59A0B1C612B.tmp' to 'D:/humanstuffFinal/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.03.12-07.21.47:933][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spawner" FILE="D:/humanstuffFinal/MyProject3/Content/Blueprints/Spawner.uasset" SILENT=true
+[2019.03.12-07.21.48:029][578]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/SpawnerA795BE2E4CB3831BFED6EA9479F17057.tmp' to 'D:/humanstuffFinal/MyProject3/Content/Blueprints/Spawner.uasset'
+[2019.03.12-07.21.52:812][863]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.03.12-07.21.54:334][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-07.21.59:644][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.12-07.22.00:587][265]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Level163FEF40F4BFFBE64B23EF8AFA58F936B.tmp' to 'D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.03.12-07.22.00:620][265]LogFileHelpers: Saving map 'Level1' took 0.976
+[2019.03.12-07.22.08:603][733]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-07.22.08:651][733]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.22.08:651][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-07.22.08:652][733]LogHMD: Initializing OVRPlugin session
+[2019.03.12-07.22.08:946][733]PIE: New page: PIE session: Level1 (Mar 11, 2019, 11:22:08 PM)
+[2019.03.12-07.22.08:946][733]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-07.22.09:006][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059983s)
+[2019.03.12-07.22.09:007][733]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-07.22.09:007][733]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2019.03.12-07.22.09:007][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.060835s)
+[2019.03.12-07.22.09:091][733]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-07.22.09:103][733]LogInit: FAudioDevice initialized.
+[2019.03.12-07.22.09:112][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.22.09:265][733]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-07.22.09:296][733]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-07.22.09:329][733]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-03.22.09
+[2019.03.12-07.22.09:333][733]LogWorld: Bringing up level for play took: 0.035784
+[2019.03.12-07.22.09:348][733]Cmd: vr.bEnableStereo True
+[2019.03.12-07.22.09:349][733]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-07.22.09:362][733]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.517
+[2019.03.12-07.22.09:362][733]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.22.09:363][733]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.22.09:376][733]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-07.22.09:376][733]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-07.22.10:046][770]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-07.25.12:871][650]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.25.12:943][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.25.12:995][650]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-07.25.13:054][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-07.25.13:055][650]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.25.13:174][651]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.03.12-07.25.13:174][651]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.25.14:612][733]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.25.14:618][733]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.25.45:305][500]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.03.12-07.25.45:418][503]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2019.03.12-07.25.46:810][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-07.26.55:646][678]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.03.12-07.26.56:676][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.12-07.26.57:638][701]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Level132E718E64ACE03FE9E3DAC80310A5E58.tmp' to 'D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.03.12-07.26.57:672][701]LogFileHelpers: Saving map 'Level1' took 0.996
+[2019.03.12-07.26.57:683][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/MotionControllerPawn" FILE="D:/humanstuffFinal/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" SILENT=true
+[2019.03.12-07.26.57:784][701]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/MotionControllerPawn61B7605E4B13A3124D35E38F1D597441.tmp' to 'D:/humanstuffFinal/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.03.12-07.27.01:332][850]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-07.27.01:376][850]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.27.01:376][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-07.27.01:377][850]LogHMD: Initializing OVRPlugin session
+[2019.03.12-07.27.01:650][850]PIE: New page: PIE session: Level1 (Mar 11, 2019, 11:27:01 PM)
+[2019.03.12-07.27.01:651][850]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-07.27.01:716][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065502s)
+[2019.03.12-07.27.01:717][850]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-07.27.01:717][850]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2019.03.12-07.27.01:717][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.066285s)
+[2019.03.12-07.27.01:796][850]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-07.27.01:807][850]LogInit: FAudioDevice initialized.
+[2019.03.12-07.27.01:815][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.27.01:895][850]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-07.27.01:923][850]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-07.27.01:943][850]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-03.27.01
+[2019.03.12-07.27.01:946][850]LogWorld: Bringing up level for play took: 0.022222
+[2019.03.12-07.27.01:960][850]Cmd: vr.bEnableStereo True
+[2019.03.12-07.27.01:960][850]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-07.27.01:968][850]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 1.123
+[2019.03.12-07.27.01:969][850]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.27.01:969][850]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.27.01:977][850]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-07.27.01:977][850]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-07.27.02:627][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-07.29.26:414][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.29.26:489][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.29.26:546][215]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-07.29.26:599][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-07.29.26:600][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.29.26:715][216]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.03.12-07.29.26:715][216]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.29.28:194][301]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.29.28:203][301]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.29.30:238][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box15)
+[2019.03.12-07.29.30:904][459]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.03.12-07.29.32:649][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-07.31.07:610][140]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.31.07:610][140]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.31.07:611][140]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.31.07:613][140]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.31.07:614][140]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.31.23:238][ 72]BlueprintLog: New page: Compile Spawner
+[2019.03.12-07.32.08:672][762]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.32.08:672][762]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.32.08:673][762]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.32.08:674][762]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.32.08:677][762]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.32.12:288][979]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.32.12:288][979]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.32.12:290][979]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.32.12:292][979]LogUObjectBase: Warning: Object is not registered
+[2019.03.12-07.32.34:841][331]BlueprintLog: New page: Compile Spawner
+[2019.03.12-07.32.38:652][533]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-07.32.38:703][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.32.38:703][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-07.32.38:703][533]LogHMD: Initializing OVRPlugin session
+[2019.03.12-07.32.38:963][533]PIE: New page: PIE session: Level1 (Mar 11, 2019, 11:32:38 PM)
+[2019.03.12-07.32.38:963][533]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-07.32.39:024][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060823s)
+[2019.03.12-07.32.39:025][533]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-07.32.39:025][533]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2019.03.12-07.32.39:025][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.061642s)
+[2019.03.12-07.32.39:110][533]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-07.32.39:120][533]LogInit: FAudioDevice initialized.
+[2019.03.12-07.32.39:127][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.32.39:214][533]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-07.32.39:243][533]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-07.32.39:267][533]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-03.32.39
+[2019.03.12-07.32.39:270][533]LogWorld: Bringing up level for play took: 0.027245
+[2019.03.12-07.32.39:284][533]Cmd: vr.bEnableStereo True
+[2019.03.12-07.32.39:284][533]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-07.32.39:289][533]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.444
+[2019.03.12-07.32.39:290][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.32.39:290][533]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.32.39:300][533]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-07.32.39:300][533]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-07.32.39:943][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-07.33.06:954][ 73]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.33.07:024][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.33.07:078][ 73]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-07.33.07:161][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-07.33.07:161][ 73]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.33.07:294][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.03.12-07.33.07:294][ 74]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.33.08:414][139]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.33.08:421][139]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.33.11:281][311]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.03.12-07.33.15:215][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-07.33.20:297][848]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.03.12-07.33.21:880][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-07.33.27:758][294]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-07.33.27:778][294]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.33.27:778][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-07.33.27:778][294]LogHMD: Initializing OVRPlugin session
+[2019.03.12-07.33.28:044][294]PIE: New page: PIE session: Level1 (Mar 11, 2019, 11:33:28 PM)
+[2019.03.12-07.33.28:044][294]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-07.33.28:099][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055466s)
+[2019.03.12-07.33.28:100][294]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-07.33.28:100][294]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2019.03.12-07.33.28:100][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.056453s)
+[2019.03.12-07.33.28:175][294]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-07.33.28:185][294]LogInit: FAudioDevice initialized.
+[2019.03.12-07.33.28:192][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.33.28:274][294]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-07.33.28:304][294]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-07.33.28:327][294]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-03.33.28
+[2019.03.12-07.33.28:330][294]LogWorld: Bringing up level for play took: 0.025666
+[2019.03.12-07.33.28:343][294]Cmd: vr.bEnableStereo True
+[2019.03.12-07.33.28:343][294]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-07.33.28:349][294]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 1.504
+[2019.03.12-07.33.28:349][294]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.33.28:350][294]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.33.28:359][294]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-07.33.28:360][294]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-07.33.29:007][341]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-07.33.43:835][347]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.33.43:909][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.33.43:967][347]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-07.33.44:022][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-07.33.44:022][347]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.33.44:240][348]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.03.12-07.33.44:241][348]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.33.45:389][413]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.33.45:396][413]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.34.01:560][344]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.03.12-07.34.03:586][400]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-07.34.03:637][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.34.03:637][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-07.34.03:637][400]LogHMD: Initializing OVRPlugin session
+[2019.03.12-07.34.03:919][400]PIE: New page: PIE session: Level1 (Mar 11, 2019, 11:34:03 PM)
+[2019.03.12-07.34.03:919][400]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-07.34.03:976][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056697s)
+[2019.03.12-07.34.03:976][400]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-07.34.03:977][400]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2019.03.12-07.34.03:977][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.057519s)
+[2019.03.12-07.34.04:036][400]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-07.34.04:046][400]LogInit: FAudioDevice initialized.
+[2019.03.12-07.34.04:054][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.34.04:146][400]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-07.34.04:176][400]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-07.34.04:202][400]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-03.34.04
+[2019.03.12-07.34.04:206][400]LogWorld: Bringing up level for play took: 0.028436
+[2019.03.12-07.34.04:221][400]Cmd: vr.bEnableStereo True
+[2019.03.12-07.34.04:221][400]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-07.34.04:235][400]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 1.39
+[2019.03.12-07.34.04:236][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.34.04:236][400]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.34.04:251][400]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-07.34.04:251][400]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-07.34.04:919][415]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-07.34.23:034][695]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.34.23:103][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.34.23:156][695]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-07.34.23:207][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-07.34.23:208][695]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.34.23:389][696]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.03.12-07.34.23:389][696]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.34.24:675][771]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.34.24:682][771]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.34.50:355][129]BlueprintLog: New page: Compile Spawner
+[2019.03.12-07.35.06:743][ 86]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.03.12-07.35.13:414][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-07.35.31:913][334]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.03.12-07.35.48:640][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-07.35.51:353][397]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.12-07.35.53:640][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.12-07.36.33:456][780]BlueprintLog: New page: Compile Spawner
+[2019.03.12-07.36.35:540][878]LogTemp: Repeating last play command: VR Preview
+[2019.03.12-07.36.35:586][878]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.36.35:586][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.12-07.36.35:586][878]LogHMD: Initializing OVRPlugin session
+[2019.03.12-07.36.35:848][878]PIE: New page: PIE session: Level1 (Mar 11, 2019, 11:36:35 PM)
+[2019.03.12-07.36.35:848][878]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.03.12-07.36.35:905][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056294s)
+[2019.03.12-07.36.35:905][878]LogAIModule: Creating AISystem for world Level1
+[2019.03.12-07.36.35:905][878]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2019.03.12-07.36.35:905][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.057043s)
+[2019.03.12-07.36.35:956][878]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.12-07.36.35:965][878]LogInit: FAudioDevice initialized.
+[2019.03.12-07.36.35:973][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.36.36:050][878]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.03.12-07.36.36:080][878]LogLoad: Game class is 'GameModeBase'
+[2019.03.12-07.36.36:102][878]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.03.12-03.36.36
+[2019.03.12-07.36.36:107][878]LogWorld: Bringing up level for play took: 0.026035
+[2019.03.12-07.36.36:123][878]Cmd: vr.bEnableStereo True
+[2019.03.12-07.36.36:123][878]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.03.12-07.36.36:129][878]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 1.284
+[2019.03.12-07.36.36:129][878]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.36.36:130][878]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.36.36:140][878]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.03.12-07.36.36:140][878]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.03.12-07.36.36:793][921]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.03.12-07.37.27:545][704]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.37.27:619][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.12-07.37.27:684][704]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.12-07.37.27:766][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.12-07.37.27:766][704]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.03.12-07.37.27:954][705]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.03.12-07.37.27:955][705]LogEngine: Changing dynamic resolution state.
+[2019.03.12-07.37.29:237][779]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.37.29:255][779]LogSlate: Window 'Message Log' being destroyed
+[2019.03.12-07.37.49:287][943]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.12-07.37.49:311][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.12-07.37.50:395][943]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Level17DABEDA243F816FD4363958C65E7148D.tmp' to 'D:/humanstuffFinal/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.03.12-07.37.50:430][943]LogFileHelpers: Saving map 'Level1' took 1.120
+[2019.03.12-07.37.50:444][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/MotionControllerPawn" FILE="D:/humanstuffFinal/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" SILENT=true
+[2019.03.12-07.37.50:555][943]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/MotionControllerPawn9E4F52B642FD81DCBBD932A0C31A2C00.tmp' to 'D:/humanstuffFinal/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.03.12-07.37.50:585][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spawner" FILE="D:/humanstuffFinal/MyProject3/Content/Blueprints/Spawner.uasset" SILENT=true
+[2019.03.12-07.37.50:695][943]LogSavePackage: Moving 'D:/humanstuffFinal/MyProject3/Saved/Spawner17927E0D449FF148EF5884A97FDD9E66.tmp' to 'D:/humanstuffFinal/MyProject3/Content/Blueprints/Spawner.uasset'
+[2019.03.12-07.38.54:207][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.12-07.38.54:376][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.12-07.38.54:504][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.12-07.38.54:628][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.12-07.38.54:725][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.12-07.38.54:823][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.12-07.38.54:925][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.12-07.38.55:053][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.12-07.38.55:178][272]LogSlate: Window 'MyProject3 - Unreal Editor' being destroyed
+[2019.03.12-07.38.55:517][273]Cmd: QUIT_EDITOR
+[2019.03.12-07.38.55:696][273]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.12-07.38.55:711][273]LogExit: Preparing to exit.
+[2019.03.12-07.38.56:845][273]LogExit: Editor shut down
+[2019.03.12-07.38.56:847][273]LogExit: Transaction tracking system shut down
+[2019.03.12-07.38.57:224][273]LogExit: Object subsystem successfully closed.
+[2019.03.12-07.38.57:255][273]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.12-07.38.57:267][273]LogD3D11RHI: Shutdown
+[2019.03.12-07.38.57:267][273]LogD3D11RHI: CleanupD3DDevice
+[2019.03.12-07.38.57:279][273]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.12-07.38.57:307][273]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2019.03.12-07.38.57:307][273]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2019.03.12-07.38.57:307][273]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (626)
+[2019.03.12-07.38.57:307][273]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2019.03.12-07.38.57:307][273]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.03.12-07.38.57:307][273]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.03.12-07.38.57:307][273]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.03.12-07.38.57:311][273]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.03.12-07.38.57:311][273]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.03.12-07.38.57:311][273]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.03.12-07.38.57:311][273]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.03.12-07.38.57:311][273]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.03.12-07.38.57:311][273]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.03.12-07.38.57:311][273]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.03.12-07.38.57:311][273]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.03.12-07.38.57:311][273]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.03.12-07.38.57:311][273]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.03.12-07.38.57:311][273]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.03.12-07.38.57:311][273]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.03.12-07.38.57:311][273]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.03.12-07.38.57:312][273]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.03.12-07.38.57:313][273]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.03.12-07.38.57:313][273]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.03.12-07.38.57:313][273]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.03.12-07.38.57:313][273]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.03.12-07.38.57:313][273]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.03.12-07.38.57:313][273]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.03.12-07.38.57:313][273]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.03.12-07.38.57:313][273]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.03.12-07.38.57:313][273]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.03.12-07.38.57:732][273]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.03.12-07.38.57:732][273]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.03.12-07.38.57:732][273]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.03.12-07.38.57:732][273]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.03.12-07.38.57:732][273]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.03.12-07.38.57:732][273]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.03.12-07.38.57:732][273]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.03.12-07.38.57:732][273]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.03.12-07.38.57:733][273]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.03.12-07.38.57:733][273]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.03.12-07.38.57:733][273]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.03.12-07.38.57:733][273]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.03.12-07.38.57:733][273]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.03.12-07.38.57:733][273]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.03.12-07.38.57:733][273]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.03.12-07.38.57:733][273]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.03.12-07.38.57:733][273]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.03.12-07.38.57:734][273]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.03.12-07.38.57:734][273]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.03.12-07.38.57:734][273]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.03.12-07.38.57:734][273]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.03.12-07.38.57:734][273]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.03.12-07.38.57:734][273]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.03.12-07.38.57:789][273]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.03.12-07.38.57:789][273]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.03.12-07.38.57:789][273]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.03.12-07.38.57:789][273]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.03.12-07.38.57:789][273]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.03.12-07.38.57:789][273]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.03.12-07.38.57:790][273]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.03.12-07.38.57:790][273]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.03.12-07.38.57:790][273]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.03.12-07.38.57:790][273]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.03.12-07.38.57:801][273]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.03.12-07.38.57:801][273]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.03.12-07.38.57:801][273]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.03.12-07.38.57:801][273]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.03.12-07.38.57:801][273]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.03.12-07.38.57:801][273]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.03.12-07.38.57:801][273]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.03.12-07.38.57:802][273]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.03.12-07.38.57:802][273]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.03.12-07.38.57:802][273]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.03.12-07.38.57:802][273]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.03.12-07.38.57:802][273]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.03.12-07.38.57:802][273]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.03.12-07.38.57:802][273]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.03.12-07.38.57:802][273]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.03.12-07.38.57:802][273]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.03.12-07.38.57:802][273]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.03.12-07.38.57:802][273]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.03.12-07.38.57:803][273]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.03.12-07.38.57:803][273]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.03.12-07.38.57:803][273]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.03.12-07.38.57:803][273]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.03.12-07.38.57:806][273]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.03.12-07.38.57:888][273]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.03.12-07.38.57:889][273]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.03.12-07.38.57:894][273]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.03.12-07.38.57:895][273]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.03.12-07.38.57:996][273]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.03.12-07.38.58:096][273]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.03.12-07.38.58:096][273]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.03.12-07.38.58:096][273]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.03.12-07.38.58:096][273]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.03.12-07.38.58:096][273]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.03.12-07.38.58:096][273]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.03.12-07.38.58:096][273]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.03.12-07.38.58:098][273]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.03.12-07.38.58:098][273]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.03.12-07.38.58:098][273]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.03.12-07.38.58:098][273]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.03.12-07.38.58:098][273]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.03.12-07.38.58:101][273]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.03.12-07.38.58:101][273]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.03.12-07.38.58:101][273]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.03.12-07.38.58:101][273]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.03.12-07.38.58:101][273]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.03.12-07.38.58:101][273]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.03.12-07.38.58:101][273]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.03.12-07.38.58:103][273]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.03.12-07.38.58:109][273]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.03.12-07.38.58:109][273]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.03.12-07.38.58:109][273]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.03.12-07.38.58:109][273]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.03.12-07.38.58:109][273]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.03.12-07.38.58:109][273]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.03.12-07.38.58:109][273]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.03.12-07.38.58:110][273]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.03.12-07.38.58:110][273]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.03.12-07.38.58:110][273]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.03.12-07.38.58:110][273]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.03.12-07.38.58:110][273]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.03.12-07.38.58:110][273]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.03.12-07.38.58:110][273]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.03.12-07.38.58:110][273]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.03.12-07.38.58:110][273]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.03.12-07.38.58:110][273]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.03.12-07.38.58:110][273]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.03.12-07.38.58:110][273]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.03.12-07.38.58:110][273]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.03.12-07.38.58:113][273]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.03.12-07.38.58:114][273]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.03.12-07.38.58:161][273]LogDerivedDataCache: Shutdown
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.03.12-07.38.58:162][273]LogXGEController: Cleaning working directory: C:/Users/Gretchen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.03.12-07.38.58:162][273]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.03.12-07.38.58:174][273]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.03.12-07.38.58:174][273]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.03.12-07.38.58:174][273]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.03.12-07.38.58:174][273]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.03.12-07.38.58:174][273]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.03.12-07.38.58:179][273]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.03.12-07.38.58:179][273]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.03.12-07.38.58:183][273]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.03.12-07.38.58:183][273]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.03.12-07.38.58:212][273]LogHMD: Freeing OpenVRDLLHandle.
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.03.12-07.38.58:212][273]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.03.12-07.38.58:214][273]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.03.12-07.38.58:214][273]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.03.12-07.38.58:236][273]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.03.12-07.38.58:236][273]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.12-07.38.58:236][273]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B568C3F1F-4AFA-98C7-45D4-988D332B61F5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Cb775b6328c914cab9a29bb4702a5cd8d%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.12-07.38.58:245][273]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.03.12-07.38.58:247][273]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.03.12-07.38.58:247][273]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.03.12-07.38.58:248][273]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.03.12-07.38.58:248][273]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.03.12-07.38.58:248][273]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.03.12-07.38.58:248][273]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.03.12-07.38.58:248][273]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.03.12-07.38.58:248][273]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.12-07.38.58:248][273]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.03.12-07.38.58:248][273]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.03.12-07.38.58:248][273]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.03.12-07.38.58:249][273]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.12-07.38.58:249][273]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.12-07.38.58:249][273]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.12-07.38.58:249][273]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.12-07.38.58:249][273]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.12-07.38.58:249][273]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.12-07.38.58:249][273]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.12-07.38.58:251][273]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.12-07.38.58:251][273]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.12-07.38.58:251][273]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.12-07.38.58:251][273]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.12-07.38.58:251][273]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.12-07.38.58:251][273]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.12-07.38.58:251][273]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.12-07.38.58:251][273]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.12-07.38.58:251][273]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.12-07.38.58:251][273]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.12-07.38.58:251][273]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.12-07.38.58:262][273]LogExit: Exiting.
+[2019.03.12-07.38.58:276][273]Log file closed, 03/12/19 03:38:58
